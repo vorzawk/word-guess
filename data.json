@@ -1,0 +1,4490 @@
+[
+  {
+    "id": "front",
+    "metadata": {
+      "operation": "retrieve",
+      "provider": "Oxford University Press",
+      "schema": "RetrieveEntry"
+    },
+    "results": [
+      {
+        "id": "front",
+        "language": "en-us",
+        "lexicalEntries": [
+          {
+            "derivatives": [
+              {
+                "id": "fronting",
+                "text": "fronting"
+              },
+              {
+                "id": "frontless",
+                "text": "frontless"
+              }
+            ],
+            "entries": [
+              {
+                "etymologies": [
+                  "Middle English (denoting the forehead): from Old French front (noun), fronter (verb), from Latin frons, front-‘forehead, front’"
+                ],
+                "senses": [
+                  {
+                    "definitions": [
+                      "the side or part of an object that presents itself to view or that is normally seen or used first; the most forward part of something"
+                    ],
+                    "examples": [
+                      {
+                        "text": "a page at the front of the book had been torn out"
+                      },
+                      {
+                        "text": "he sealed the envelope and wrote on the front"
+                      }
+                    ],
+                    "id": "m_en_gbus0391650.007",
+                    "shortDefinitions": [
+                      "forward part of something"
+                    ],
+                    "subsenses": [
+                      {
+                        "definitions": [
+                          "the position directly ahead of someone or something; the most forward position or place"
+                        ],
+                        "examples": [
+                          {
+                            "text": "she quickly turned her head to face the front"
+                          }
+                        ],
+                        "id": "m_en_gbus0391650.010",
+                        "notes": [
+                          {
+                            "text": "in singular",
+                            "type": "grammaticalNote"
+                          }
+                        ],
+                        "shortDefinitions": [
+                          "most forward position"
+                        ],
+                        "thesaurusLinks": [
+                          {
+                            "entry_id": "front",
+                            "sense_id": "t_en_gb0006104.001"
+                          }
+                        ]
+                      },
+                      {
+                        "definitions": [
+                          "the forward-facing part of a person's body, on the opposite side to their back"
+                        ],
+                        "examples": [
+                          {
+                            "text": "she rolled over onto her front"
+                          }
+                        ],
+                        "id": "m_en_gbus0391650.012",
+                        "shortDefinitions": [
+                          "forward-facing part of body"
+                        ]
+                      },
+                      {
+                        "definitions": [
+                          "the part of a garment covering a person's front"
+                        ],
+                        "domains": [
+                          {
+                            "id": "clothing",
+                            "text": "Clothing"
+                          }
+                        ],
+                        "examples": [
+                          {
+                            "text": "oatmeal slopped from the tray onto his shirt front"
+                          }
+                        ],
+                        "id": "m_en_gbus0391650.013",
+                        "shortDefinitions": [
+                          "front part of garment"
+                        ]
+                      },
+                      {
+                        "definitions": [
+                          "a woman's bust or cleavage"
+                        ],
+                        "examples": [
+                          {
+                            "text": "get your eyes off my front, meathead"
+                          }
+                        ],
+                        "id": "m_en_gbus0391650.014",
+                        "registers": [
+                          {
+                            "id": "informal",
+                            "text": "Informal"
+                          }
+                        ],
+                        "shortDefinitions": [
+                          "woman's bust"
+                        ]
+                      },
+                      {
+                        "definitions": [
+                          "any face of a building, especially that of the main entrance"
+                        ],
+                        "domains": [
+                          {
+                            "id": "architecture",
+                            "text": "Architecture"
+                          }
+                        ],
+                        "examples": [
+                          {
+                            "text": "the west front of the Cathedral"
+                          }
+                        ],
+                        "id": "m_en_gbus0391650.015",
+                        "shortDefinitions": [
+                          "face of building"
+                        ],
+                        "thesaurusLinks": [
+                          {
+                            "entry_id": "front",
+                            "sense_id": "t_en_gb0006104.002"
+                          }
+                        ]
+                      },
+                      {
+                        "crossReferenceMarkers": [
+                          "short for seafront or waterfront"
+                        ],
+                        "crossReferences": [
+                          {
+                            "id": "seafront",
+                            "text": "seafront",
+                            "type": "abbreviation of"
+                          },
+                          {
+                            "id": "waterfront",
+                            "text": "waterfront",
+                            "type": "abbreviation of"
+                          }
+                        ],
+                        "id": "m_en_gbus0391650.016",
+                        "regions": [
+                          {
+                            "id": "british",
+                            "text": "British"
+                          }
+                        ],
+                        "shortDefinitions": [
+                          "seafront or waterfront"
+                        ]
+                      }
+                    ],
+                    "thesaurusLinks": [
+                      {
+                        "entry_id": "front",
+                        "sense_id": "t_en_gb0006104.001"
+                      }
+                    ]
+                  },
+                  {
+                    "definitions": [
+                      "the foremost line or part of an armed force; the furthest position that an army has reached and where the enemy is or may be engaged"
+                    ],
+                    "domains": [
+                      {
+                        "id": "military",
+                        "text": "Military"
+                      }
+                    ],
+                    "examples": [
+                      {
+                        "text": "his regiment was immediately sent to the front"
+                      }
+                    ],
+                    "id": "m_en_gbus0391650.018",
+                    "shortDefinitions": [
+                      "foremost line of army"
+                    ],
+                    "subsenses": [
+                      {
+                        "definitions": [
+                          "the direction toward which a line of troops faces when formed."
+                        ],
+                        "domains": [
+                          {
+                            "id": "military",
+                            "text": "Military"
+                          }
+                        ],
+                        "id": "m_en_gbus0391650.019",
+                        "shortDefinitions": [
+                          "direction faced by troops"
+                        ]
+                      },
+                      {
+                        "definitions": [
+                          "a particular formation of troops for battle"
+                        ],
+                        "domains": [
+                          {
+                            "id": "military",
+                            "text": "Military"
+                          }
+                        ],
+                        "examples": [
+                          {
+                            "text": "the Spartans preserving an even and unbroken front"
+                          }
+                        ],
+                        "id": "m_en_gbus0391650.020",
+                        "shortDefinitions": [
+                          "formation of troops"
+                        ]
+                      },
+                      {
+                        "definitions": [
+                          "a particular situation or sphere of operation"
+                        ],
+                        "examples": [
+                          {
+                            "text": "there was some good news on the jobs front"
+                          }
+                        ],
+                        "id": "m_en_gbus0391650.021",
+                        "shortDefinitions": [
+                          "particular sphere of operation"
+                        ]
+                      },
+                      {
+                        "definitions": [
+                          "an organized political group"
+                        ],
+                        "domains": [
+                          {
+                            "id": "politics",
+                            "text": "Politics"
+                          }
+                        ],
+                        "examples": [
+                          {
+                            "text": "the Palestinian Liberation Front"
+                          }
+                        ],
+                        "id": "m_en_gbus0391650.022",
+                        "notes": [
+                          {
+                            "text": "often in names",
+                            "type": "grammaticalNote"
+                          }
+                        ],
+                        "shortDefinitions": [
+                          "political group"
+                        ],
+                        "thesaurusLinks": [
+                          {
+                            "entry_id": "movement",
+                            "sense_id": "t_en_gb0009727.003"
+                          }
+                        ]
+                      },
+                      {
+                        "crossReferenceMarkers": [
+                          "See cold front, occluded front, warm front"
+                        ],
+                        "crossReferences": [
+                          {
+                            "id": "cold_front",
+                            "text": "cold front",
+                            "type": "see also"
+                          },
+                          {
+                            "id": "occluded_front",
+                            "text": "occluded front",
+                            "type": "see also"
+                          },
+                          {
+                            "id": "warm_front",
+                            "text": "warm front",
+                            "type": "see also"
+                          }
+                        ],
+                        "definitions": [
+                          "the forward edge of an advancing mass of air."
+                        ],
+                        "domains": [
+                          {
+                            "id": "meteorology",
+                            "text": "Meteorology"
+                          }
+                        ],
+                        "id": "m_en_gbus0391650.023",
+                        "shortDefinitions": [
+                          "forward edge of mass of air"
+                        ]
+                      }
+                    ],
+                    "thesaurusLinks": [
+                      {
+                        "entry_id": "front",
+                        "sense_id": "t_en_gb0006104.003"
+                      }
+                    ]
+                  },
+                  {
+                    "definitions": [
+                      "an appearance or form of behavior assumed by a person to conceal their genuine feelings"
+                    ],
+                    "examples": [
+                      {
+                        "text": "she put on a brave front"
+                      }
+                    ],
+                    "id": "m_en_gbus0391650.025",
+                    "notes": [
+                      {
+                        "text": "in singular",
+                        "type": "grammaticalNote"
+                      }
+                    ],
+                    "shortDefinitions": [
+                      "appearance concealing genuine feelings"
+                    ],
+                    "subsenses": [
+                      {
+                        "constructions": [
+                          {
+                            "text": "a front for"
+                          }
+                        ],
+                        "definitions": [
+                          "a person or organization serving as a cover for subversive or illegal activities"
+                        ],
+                        "domains": [
+                          {
+                            "id": "intelligence",
+                            "text": "Intelligence"
+                          },
+                          {
+                            "id": "crime",
+                            "text": "Crime"
+                          }
+                        ],
+                        "examples": [
+                          {
+                            "text": "the CIA identified the company as a front for a terrorist group"
+                          }
+                        ],
+                        "id": "m_en_gbus0391650.026",
+                        "shortDefinitions": [
+                          "cover for illegal activities"
+                        ],
+                        "thesaurusLinks": [
+                          {
+                            "entry_id": "front",
+                            "sense_id": "t_en_gb0006104.006"
+                          }
+                        ]
+                      },
+                      {
+                        "crossReferenceMarkers": [
+                          "See also frontman"
+                        ],
+                        "crossReferences": [
+                          {
+                            "id": "frontman",
+                            "text": "frontman",
+                            "type": "see also"
+                          }
+                        ],
+                        "definitions": [
+                          "a well-known or prestigious person who acts as a representative, rather than an active member, of an organization."
+                        ],
+                        "id": "m_en_gbus0391650.027",
+                        "shortDefinitions": [
+                          "well-known or prestigious person who acts as representative, rather than active member"
+                        ]
+                      }
+                    ],
+                    "thesaurusLinks": [
+                      {
+                        "entry_id": "front",
+                        "sense_id": "t_en_gb0006104.005"
+                      }
+                    ]
+                  },
+                  {
+                    "definitions": [
+                      "boldness and confidence of manner"
+                    ],
+                    "examples": [
+                      {
+                        "text": "he's got a bit of talent and a lot of front"
+                      }
+                    ],
+                    "id": "m_en_gbus0391650.029",
+                    "shortDefinitions": [
+                      "boldness"
+                    ],
+                    "thesaurusLinks": [
+                      {
+                        "entry_id": "front",
+                        "sense_id": "t_en_gb0006104.007"
+                      }
+                    ]
+                  },
+                  {
+                    "definitions": [
+                      "a person's face or forehead."
+                    ],
+                    "id": "m_en_gbus0391650.031",
+                    "registers": [
+                      {
+                        "id": "archaic",
+                        "text": "Archaic"
+                      }
+                    ],
+                    "shortDefinitions": [
+                      "face or forehead"
+                    ]
+                  }
+                ]
+              }
+            ],
+            "language": "en-us",
+            "lexicalCategory": {
+              "id": "noun",
+              "text": "Noun"
+            },
+            "pronunciations": [
+              {
+                "dialects": [
+                  "American English"
+                ],
+                "phoneticNotation": "respell",
+                "phoneticSpelling": "frənt"
+              },
+              {
+                "audioFile": "http://audio.oxforddictionaries.com/en/mp3/front_us_1.mp3",
+                "dialects": [
+                  "American English"
+                ],
+                "phoneticNotation": "IPA",
+                "phoneticSpelling": "frənt"
+              }
+            ],
+            "text": "front"
+          },
+          {
+            "derivatives": [
+              {
+                "id": "fronting",
+                "text": "fronting"
+              },
+              {
+                "id": "frontless",
+                "text": "frontless"
+              }
+            ],
+            "entries": [
+              {
+                "notes": [
+                  {
+                    "text": "attributive",
+                    "type": "grammaticalNote"
+                  }
+                ],
+                "senses": [
+                  {
+                    "definitions": [
+                      "of or at the front"
+                    ],
+                    "examples": [
+                      {
+                        "text": "the front cover of the magazine"
+                      },
+                      {
+                        "text": "she was in the front yard"
+                      }
+                    ],
+                    "id": "m_en_gbus0391650.034",
+                    "shortDefinitions": [
+                      "of or at front"
+                    ],
+                    "thesaurusLinks": [
+                      {
+                        "entry_id": "front",
+                        "sense_id": "t_en_gb0006104.013"
+                      },
+                      {
+                        "entry_id": "front",
+                        "sense_id": "t_en_gb0006104.014"
+                      }
+                    ]
+                  },
+                  {
+                    "definitions": [
+                      "(of a vowel sound) formed by raising the tongue, excluding the blade and tip, toward the hard palate."
+                    ],
+                    "domains": [
+                      {
+                        "id": "phonetics",
+                        "text": "Phonetics"
+                      }
+                    ],
+                    "id": "m_en_gbus0391650.037",
+                    "shortDefinitions": [
+                      "(of vowel sound) formed by raising tongue"
+                    ]
+                  }
+                ]
+              }
+            ],
+            "language": "en-us",
+            "lexicalCategory": {
+              "id": "adjective",
+              "text": "Adjective"
+            },
+            "pronunciations": [
+              {
+                "dialects": [
+                  "American English"
+                ],
+                "phoneticNotation": "respell",
+                "phoneticSpelling": "frənt"
+              },
+              {
+                "audioFile": "http://audio.oxforddictionaries.com/en/mp3/front_us_1.mp3",
+                "dialects": [
+                  "American English"
+                ],
+                "phoneticNotation": "IPA",
+                "phoneticSpelling": "frənt"
+              }
+            ],
+            "text": "front"
+          },
+          {
+            "derivatives": [
+              {
+                "id": "fronting",
+                "text": "fronting"
+              },
+              {
+                "id": "frontless",
+                "text": "frontless"
+              }
+            ],
+            "entries": [
+              {
+                "grammaticalFeatures": [
+                  {
+                    "id": "transitive",
+                    "text": "Transitive",
+                    "type": "Subcategorization"
+                  }
+                ],
+                "senses": [
+                  {
+                    "definitions": [
+                      "(of a building or piece of land) have the front facing or directed toward"
+                    ],
+                    "examples": [
+                      {
+                        "text": "the houses that front Beacon Street"
+                      },
+                      {
+                        "notes": [
+                          {
+                            "text": "no object",
+                            "type": "grammaticalNote"
+                          }
+                        ],
+                        "text": "we sold the uphill land that fronted on the road"
+                      }
+                    ],
+                    "id": "m_en_gbus0391650.040",
+                    "shortDefinitions": [
+                      "have front facing towards"
+                    ],
+                    "subsenses": [
+                      {
+                        "definitions": [
+                          "be or stand in front of"
+                        ],
+                        "examples": [
+                          {
+                            "text": "they reached the hedge fronting the garden"
+                          }
+                        ],
+                        "id": "m_en_gbus0391650.046",
+                        "shortDefinitions": [
+                          "be or stand in front of"
+                        ]
+                      }
+                    ],
+                    "thesaurusLinks": [
+                      {
+                        "entry_id": "front",
+                        "sense_id": "t_en_gb0006104.015"
+                      }
+                    ]
+                  },
+                  {
+                    "definitions": [
+                      "provide (something) with a front or facing of a particular type or material"
+                    ],
+                    "examples": [
+                      {
+                        "text": "a metal box fronted by an alloy panel"
+                      },
+                      {
+                        "notes": [
+                          {
+                            "text": "\"-fronted\"",
+                            "type": "wordFormNote"
+                          },
+                          {
+                            "text": "as adjective, in combination",
+                            "type": "grammaticalNote"
+                          }
+                        ],
+                        "text": "a glass-fronted bookcase"
+                      }
+                    ],
+                    "id": "m_en_gbus0391650.048",
+                    "shortDefinitions": [
+                      "provide with facing"
+                    ]
+                  },
+                  {
+                    "definitions": [
+                      "lead or be the most prominent member in (an organization, activity, or group of musicians)"
+                    ],
+                    "examples": [
+                      {
+                        "text": "the group is fronted by two girl singers"
+                      }
+                    ],
+                    "id": "m_en_gbus0391650.050",
+                    "shortDefinitions": [
+                      "lead group or activity"
+                    ],
+                    "subsenses": [
+                      {
+                        "definitions": [
+                          "present or host (a television or radio program)"
+                        ],
+                        "domains": [
+                          {
+                            "id": "broadcasting",
+                            "text": "Broadcasting"
+                          }
+                        ],
+                        "examples": [
+                          {
+                            "text": "she is set to front a new BBC show"
+                          }
+                        ],
+                        "id": "m_en_gbus0391650.051",
+                        "shortDefinitions": [
+                          "present programme"
+                        ],
+                        "thesaurusLinks": [
+                          {
+                            "entry_id": "host",
+                            "sense_id": "t_en_gb0007141.004"
+                          }
+                        ]
+                      }
+                    ],
+                    "thesaurusLinks": [
+                      {
+                        "entry_id": "spearhead",
+                        "sense_id": "t_en_gb0013864.003"
+                      }
+                    ]
+                  },
+                  {
+                    "definitions": [
+                      "act as a front or cover for someone or something acting illegally or wishing to conceal something"
+                    ],
+                    "examples": [
+                      {
+                        "text": "he fronted for them in illegal property deals"
+                      }
+                    ],
+                    "id": "m_en_gbus0391650.053",
+                    "notes": [
+                      {
+                        "text": "no object",
+                        "type": "grammaticalNote"
+                      }
+                    ],
+                    "shortDefinitions": [
+                      "act as cover for illegal activity"
+                    ],
+                    "subsenses": [
+                      {
+                        "definitions": [
+                          "adopt a particular expression or form of behavior to conceal one's genuine feelings"
+                        ],
+                        "examples": [
+                          {
+                            "text": "I can't front, I never really listened to much of his music"
+                          }
+                        ],
+                        "id": "m_en_gbus0391650.054",
+                        "regions": [
+                          {
+                            "id": "us",
+                            "text": "Us"
+                          }
+                        ],
+                        "registers": [
+                          {
+                            "id": "informal",
+                            "text": "Informal"
+                          }
+                        ],
+                        "shortDefinitions": [
+                          "assume appearance to conceal one's genuine feelings"
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "definitions": [
+                      "stand face to face with; confront"
+                    ],
+                    "examples": [
+                      {
+                        "text": "Tom fronted him with unwavering eyes"
+                      }
+                    ],
+                    "id": "m_en_gbus0391650.057",
+                    "regions": [
+                      {
+                        "id": "australian",
+                        "text": "Australian"
+                      },
+                      {
+                        "id": "new_zealand",
+                        "text": "New_Zealand"
+                      }
+                    ],
+                    "registers": [
+                      {
+                        "id": "archaic",
+                        "text": "Archaic"
+                      }
+                    ],
+                    "shortDefinitions": [
+                      "confront"
+                    ]
+                  },
+                  {
+                    "definitions": [
+                      "articulate (a vowel sound) with the tongue further forward"
+                    ],
+                    "domains": [
+                      {
+                        "id": "phonetics",
+                        "text": "Phonetics"
+                      }
+                    ],
+                    "examples": [
+                      {
+                        "notes": [
+                          {
+                            "text": "as adjective \"fronted\"",
+                            "type": "wordFormNote"
+                          }
+                        ],
+                        "text": "all speakers use raised and fronted variants more in spontaneous speech"
+                      }
+                    ],
+                    "id": "m_en_gbus0391650.059",
+                    "shortDefinitions": [
+                      "articulate vowel with tongue forward"
+                    ]
+                  },
+                  {
+                    "definitions": [
+                      "place (a sentence element) at the beginning of a sentence instead of in its usual position, typically for emphasis or as a feature of some dialects, as in horrible it was."
+                    ],
+                    "domains": [
+                      {
+                        "id": "linguistics",
+                        "text": "Linguistics"
+                      }
+                    ],
+                    "id": "m_en_gbus0391650.061",
+                    "shortDefinitions": [
+                      "place element at beginning of sentence"
+                    ]
+                  }
+                ]
+              }
+            ],
+            "language": "en-us",
+            "lexicalCategory": {
+              "id": "verb",
+              "text": "Verb"
+            },
+            "pronunciations": [
+              {
+                "dialects": [
+                  "American English"
+                ],
+                "phoneticNotation": "respell",
+                "phoneticSpelling": "frənt"
+              },
+              {
+                "audioFile": "http://audio.oxforddictionaries.com/en/mp3/front_us_1.mp3",
+                "dialects": [
+                  "American English"
+                ],
+                "phoneticNotation": "IPA",
+                "phoneticSpelling": "frənt"
+              }
+            ],
+            "text": "front"
+          },
+          {
+            "derivatives": [
+              {
+                "id": "fronting",
+                "text": "fronting"
+              },
+              {
+                "id": "frontless",
+                "text": "frontless"
+              }
+            ],
+            "entries": [
+              {
+                "senses": [
+                  {
+                    "definitions": [
+                      "used to summon someone to the front or to command them to assume a forward-facing position, as in calling a bellhop to the front desk or giving orders to troops on parade"
+                    ],
+                    "examples": [
+                      {
+                        "text": "scouts, front and center!"
+                      }
+                    ],
+                    "id": "m_en_gbus0391650.063",
+                    "shortDefinitions": [
+                      "used to summon someone"
+                    ]
+                  }
+                ]
+              }
+            ],
+            "language": "en-us",
+            "lexicalCategory": {
+              "id": "interjection",
+              "text": "Interjection"
+            },
+            "pronunciations": [
+              {
+                "dialects": [
+                  "American English"
+                ],
+                "phoneticNotation": "respell",
+                "phoneticSpelling": "frənt"
+              },
+              {
+                "audioFile": "http://audio.oxforddictionaries.com/en/mp3/front_us_1.mp3",
+                "dialects": [
+                  "American English"
+                ],
+                "phoneticNotation": "IPA",
+                "phoneticSpelling": "frənt"
+              }
+            ],
+            "text": "front"
+          }
+        ],
+        "type": "headword",
+        "word": "front"
+      }
+    ],
+    "word": "front"
+  },
+  {
+    "id": "around",
+    "metadata": {
+      "operation": "retrieve",
+      "provider": "Oxford University Press",
+      "schema": "RetrieveEntry"
+    },
+    "results": [
+      {
+        "id": "around",
+        "language": "en-us",
+        "lexicalEntries": [
+          {
+            "entries": [
+              {
+                "etymologies": [
+                  "Middle English: from a-‘in, on’ + round"
+                ],
+                "notes": [
+                  {
+                    "text": "Are around and round (as preposition and adverbial particle) interchangeable? In US English, the normal form in most contexts is around; round is generally regarded as informal or nonstandard and is standard only in certain fixed expressions, as in the park is open year round and they went round and round in circles",
+                    "type": "editorialNote"
+                  }
+                ],
+                "senses": [
+                  {
+                    "definitions": [
+                      "located or situated on every side"
+                    ],
+                    "examples": [
+                      {
+                        "text": "the mountains towering all around"
+                      },
+                      {
+                        "text": "a building visible for miles around"
+                      }
+                    ],
+                    "id": "m_en_gbus0048020.007",
+                    "shortDefinitions": [
+                      "on every side"
+                    ],
+                    "subsenses": [
+                      {
+                        "definitions": [
+                          "so as to surround someone or something"
+                        ],
+                        "examples": [
+                          {
+                            "text": "everyone crowded around"
+                          },
+                          {
+                            "text": "a pool with banks all the way around"
+                          }
+                        ],
+                        "id": "m_en_gbus0048020.010",
+                        "shortDefinitions": [
+                          "so as to surround person or thing"
+                        ]
+                      },
+                      {
+                        "definitions": [
+                          "so as to give support and companionship"
+                        ],
+                        "examples": [
+                          {
+                            "text": "sometimes you wonder how many friends will rally around you when your life hits rock-bottom"
+                          }
+                        ],
+                        "id": "m_en_gbus0048020.011",
+                        "shortDefinitions": [
+                          "so as to give support and companionship"
+                        ]
+                      },
+                      {
+                        "definitions": [
+                          "with circular motion"
+                        ],
+                        "examples": [
+                          {
+                            "text": "the boats were spun around by waterspouts"
+                          }
+                        ],
+                        "id": "m_en_gbus0048020.012",
+                        "shortDefinitions": [
+                          "with circular motion"
+                        ]
+                      },
+                      {
+                        "definitions": [
+                          "so as to cover or take in the whole area surrounding a particular center"
+                        ],
+                        "examples": [
+                          {
+                            "text": "she paused to glance around admiringly at the decor"
+                          }
+                        ],
+                        "id": "m_en_gbus0048020.013",
+                        "shortDefinitions": [
+                          "so as to cover or take in whole area surrounding particular center"
+                        ]
+                      },
+                      {
+                        "definitions": [
+                          "so as to reach everyone in a particular group or area"
+                        ],
+                        "examples": [
+                          {
+                            "text": "he passed a newspaper clipping around"
+                          }
+                        ],
+                        "id": "m_en_gbus0048020.014",
+                        "shortDefinitions": [
+                          "so as to reach everyone in particular group or area"
+                        ]
+                      }
+                    ],
+                    "thesaurusLinks": [
+                      {
+                        "entry_id": "around",
+                        "sense_id": "t_en_gb0000810.001"
+                      }
+                    ]
+                  },
+                  {
+                    "definitions": [
+                      "so as to rotate and face in the opposite direction"
+                    ],
+                    "examples": [
+                      {
+                        "text": "Jack seized her by the shoulders and turned her around"
+                      },
+                      {
+                        "registers": [
+                          {
+                            "id": "figurative",
+                            "text": "Figurative"
+                          }
+                        ],
+                        "text": "having him in my corner has turned my career around"
+                      }
+                    ],
+                    "id": "m_en_gbus0048020.016",
+                    "shortDefinitions": [
+                      "to face in opposite direction"
+                    ],
+                    "subsenses": [
+                      {
+                        "definitions": [
+                          "so as to lead in another direction"
+                        ],
+                        "examples": [
+                          {
+                            "text": "it was the last house before the road curved around"
+                          }
+                        ],
+                        "id": "m_en_gbus0048020.018",
+                        "shortDefinitions": [
+                          "so as to lead in another direction"
+                        ]
+                      },
+                      {
+                        "definitions": [
+                          "used in describing the position of something, typically with regard to the direction in which it is facing or its relation to other items"
+                        ],
+                        "examples": [
+                          {
+                            "text": "the picture shows the pieces the wrong way around"
+                          }
+                        ],
+                        "id": "m_en_gbus0048020.019",
+                        "shortDefinitions": [
+                          "used in describing position of something"
+                        ]
+                      },
+                      {
+                        "definitions": [
+                          "used to describe a situation in terms of the relation between people, actions, or events"
+                        ],
+                        "examples": [
+                          {
+                            "text": "it was he who was attacking her, not the other way around"
+                          }
+                        ],
+                        "id": "m_en_gbus0048020.020",
+                        "shortDefinitions": [
+                          "used to describe situation in terms of relation between people or events"
+                        ]
+                      }
+                    ],
+                    "thesaurusLinks": [
+                      {
+                        "entry_id": "around",
+                        "sense_id": "t_en_gb0000810.002"
+                      }
+                    ]
+                  },
+                  {
+                    "definitions": [
+                      "in or to many places throughout a locality"
+                    ],
+                    "examples": [
+                      {
+                        "text": "word got around that he was on the verge of retirement"
+                      },
+                      {
+                        "text": "his only ambition is to drive around in a sports car"
+                      }
+                    ],
+                    "id": "m_en_gbus0048020.024",
+                    "shortDefinitions": [
+                      "throughout area"
+                    ],
+                    "subsenses": [
+                      {
+                        "constructions": [
+                          {
+                            "text": "the long way around"
+                          }
+                        ],
+                        "definitions": [
+                          "so as to reach a new place or position, typically by moving from one side of something to the other"
+                        ],
+                        "examples": [
+                          {
+                            "text": "he made his way around to the back of the building"
+                          },
+                          {
+                            "text": "they went the long way around by the main road"
+                          }
+                        ],
+                        "id": "m_en_gbus0048020.022",
+                        "shortDefinitions": [
+                          "so as to reach new place or position"
+                        ]
+                      },
+                      {
+                        "definitions": [
+                          "used to convey an ability to navigate or orient oneself"
+                        ],
+                        "examples": [
+                          {
+                            "text": "I like pupils to find their own way around"
+                          }
+                        ],
+                        "id": "m_en_gbus0048020.025",
+                        "shortDefinitions": [
+                          "used to convey ability to navigate or orient oneself"
+                        ]
+                      },
+                      {
+                        "definitions": [
+                          "used to convey the idea of visiting someone else"
+                        ],
+                        "examples": [
+                          {
+                            "text": "why don't you come around to my office?"
+                          }
+                        ],
+                        "id": "m_en_gbus0048020.026",
+                        "registers": [
+                          {
+                            "id": "informal",
+                            "text": "Informal"
+                          }
+                        ],
+                        "shortDefinitions": [
+                          "used to convey idea of visiting someone else"
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "definitions": [
+                      "randomly or unsystematically; here and there"
+                    ],
+                    "examples": [
+                      {
+                        "text": "one of them was glancing nervously around"
+                      },
+                      {
+                        "text": "John tried to focus on her but she kept moving around"
+                      }
+                    ],
+                    "id": "m_en_gbus0048020.028",
+                    "shortDefinitions": [
+                      "here and there"
+                    ],
+                    "thesaurusLinks": [
+                      {
+                        "entry_id": "here_and_there",
+                        "sense_id": "t_en_gb0006932.006"
+                      }
+                    ]
+                  },
+                  {
+                    "definitions": [
+                      "in existence, in the vicinity, or in active use"
+                    ],
+                    "examples": [
+                      {
+                        "text": "there was no one around"
+                      },
+                      {
+                        "text": "barley has been around for a long time"
+                      },
+                      {
+                        "text": "by being around I threaten her happiness"
+                      }
+                    ],
+                    "id": "m_en_gbus0048020.030",
+                    "shortDefinitions": [
+                      "present or in evidence"
+                    ],
+                    "subsenses": [
+                      {
+                        "definitions": [
+                          "near at hand"
+                        ],
+                        "examples": [
+                          {
+                            "text": "he would want to have her around as much as possible"
+                          }
+                        ],
+                        "id": "m_en_gbus0048020.032",
+                        "shortDefinitions": [
+                          "near at hand"
+                        ]
+                      }
+                    ],
+                    "thesaurusLinks": [
+                      {
+                        "entry_id": "around",
+                        "sense_id": "t_en_gb0000810.003"
+                      }
+                    ]
+                  },
+                  {
+                    "definitions": [
+                      "approximately; about"
+                    ],
+                    "examples": [
+                      {
+                        "text": "software costs would be around $1,500"
+                      },
+                      {
+                        "notes": [
+                          {
+                            "text": "as preposition",
+                            "type": "grammaticalNote"
+                          }
+                        ],
+                        "text": "I returned to my hotel around 3 a.m."
+                      }
+                    ],
+                    "id": "m_en_gbus0048020.034",
+                    "shortDefinitions": [
+                      "approximately"
+                    ],
+                    "thesaurusLinks": [
+                      {
+                        "entry_id": "around",
+                        "sense_id": "t_en_gb0000810.006"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "language": "en-us",
+            "lexicalCategory": {
+              "id": "adverb",
+              "text": "Adverb"
+            },
+            "pronunciations": [
+              {
+                "dialects": [
+                  "American English"
+                ],
+                "phoneticNotation": "respell",
+                "phoneticSpelling": "əˈround"
+              },
+              {
+                "audioFile": "http://audio.oxforddictionaries.com/en/mp3/around_us_1.mp3",
+                "dialects": [
+                  "American English"
+                ],
+                "phoneticNotation": "IPA",
+                "phoneticSpelling": "əˈraʊnd"
+              }
+            ],
+            "text": "around"
+          },
+          {
+            "entries": [
+              {
+                "notes": [
+                  {
+                    "text": "Are around and round (as preposition and adverbial particle) interchangeable? In US English, the normal form in most contexts is around; round is generally regarded as informal or nonstandard and is standard only in certain fixed expressions, as in the park is open year round and they went round and round in circles",
+                    "type": "editorialNote"
+                  }
+                ],
+                "senses": [
+                  {
+                    "definitions": [
+                      "on every side of"
+                    ],
+                    "examples": [
+                      {
+                        "text": "the palazzo is built around a courtyard"
+                      },
+                      {
+                        "text": "the hills around the city"
+                      }
+                    ],
+                    "id": "m_en_gbus0048020.038",
+                    "shortDefinitions": [
+                      "on every side of"
+                    ],
+                    "subsenses": [
+                      {
+                        "definitions": [
+                          "(of something abstract) having (the thing mentioned) as a focal point"
+                        ],
+                        "examples": [
+                          {
+                            "text": "our entire culture is built around those loyalties"
+                          },
+                          {
+                            "text": "you can organize your essay around an existing critical controversy"
+                          }
+                        ],
+                        "id": "m_en_gbus0048020.040",
+                        "shortDefinitions": [
+                          "having as focal point"
+                        ]
+                      }
+                    ],
+                    "thesaurusLinks": [
+                      {
+                        "entry_id": "around",
+                        "sense_id": "t_en_gb0000810.004"
+                      }
+                    ]
+                  },
+                  {
+                    "definitions": [
+                      "in or to many places throughout (a community or locality)"
+                    ],
+                    "examples": [
+                      {
+                        "text": "cycling around the village"
+                      },
+                      {
+                        "text": "a number of large depots around the country"
+                      }
+                    ],
+                    "id": "m_en_gbus0048020.042",
+                    "shortDefinitions": [
+                      "in or to many places throughout"
+                    ],
+                    "thesaurusLinks": [
+                      {
+                        "entry_id": "around",
+                        "sense_id": "t_en_gb0000810.005"
+                      }
+                    ]
+                  },
+                  {
+                    "definitions": [
+                      "so as to pass (a place or object) in a curved or approximately circular route"
+                    ],
+                    "examples": [
+                      {
+                        "text": "he walked around the airfield"
+                      },
+                      {
+                        "text": "it can drill around corners"
+                      }
+                    ],
+                    "id": "m_en_gbus0048020.044",
+                    "shortDefinitions": [
+                      "following circular route"
+                    ]
+                  },
+                  {
+                    "definitions": [
+                      "so as to encircle or embrace (someone or something)"
+                    ],
+                    "examples": [
+                      {
+                        "text": "he put his arm around her"
+                      },
+                      {
+                        "text": "warming her hands around a cup of coffee"
+                      },
+                      {
+                        "text": "the polar vortex around Antarctica"
+                      }
+                    ],
+                    "id": "m_en_gbus0048020.046",
+                    "shortDefinitions": [
+                      "so as to encircle or embrace"
+                    ],
+                    "thesaurusLinks": [
+                      {
+                        "entry_id": "around",
+                        "sense_id": "t_en_gb0000810.004"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "language": "en-us",
+            "lexicalCategory": {
+              "id": "preposition",
+              "text": "Preposition"
+            },
+            "pronunciations": [
+              {
+                "dialects": [
+                  "American English"
+                ],
+                "phoneticNotation": "respell",
+                "phoneticSpelling": "əˈround"
+              },
+              {
+                "audioFile": "http://audio.oxforddictionaries.com/en/mp3/around_us_1.mp3",
+                "dialects": [
+                  "American English"
+                ],
+                "phoneticNotation": "IPA",
+                "phoneticSpelling": "əˈraʊnd"
+              }
+            ],
+            "text": "around"
+          }
+        ],
+        "type": "headword",
+        "word": "around"
+      }
+    ],
+    "word": "around"
+  },
+  {
+    "id": "strange",
+    "metadata": {
+      "operation": "retrieve",
+      "provider": "Oxford University Press",
+      "schema": "RetrieveEntry"
+    },
+    "results": [
+      {
+        "id": "strange",
+        "language": "en-us",
+        "lexicalEntries": [
+          {
+            "entries": [
+              {
+                "etymologies": [
+                  "Middle English: shortening of Old French estrange, from Latin extraneus‘external, strange’"
+                ],
+                "senses": [
+                  {
+                    "constructions": [
+                      {
+                        "text": "it is strange how"
+                      }
+                    ],
+                    "definitions": [
+                      "unusual or surprising in a way that is unsettling or hard to understand"
+                    ],
+                    "examples": [
+                      {
+                        "text": "children have some strange ideas"
+                      },
+                      {
+                        "text": "he's a very strange man"
+                      },
+                      {
+                        "notes": [
+                          {
+                            "text": "with clause",
+                            "type": "grammaticalNote"
+                          }
+                        ],
+                        "text": "\n              it is strange how things change"
+                      }
+                    ],
+                    "id": "m_en_gbus1000740.006",
+                    "shortDefinitions": [
+                      "unusual or surprising"
+                    ],
+                    "thesaurusLinks": [
+                      {
+                        "entry_id": "strange",
+                        "sense_id": "t_en_gb0014193.001"
+                      },
+                      {
+                        "entry_id": "strange",
+                        "sense_id": "t_en_gb0014193.002"
+                      }
+                    ]
+                  },
+                  {
+                    "constructions": [
+                      {
+                        "text": "strange to"
+                      }
+                    ],
+                    "definitions": [
+                      "not previously visited, seen, or encountered; unfamiliar or alien"
+                    ],
+                    "examples": [
+                      {
+                        "text": "a harsh accent that was strange to his ears"
+                      },
+                      {
+                        "text": "she found herself in bed in a strange place"
+                      }
+                    ],
+                    "id": "m_en_gbus1000740.012",
+                    "shortDefinitions": [
+                      "not previously visited or encountered"
+                    ],
+                    "subsenses": [
+                      {
+                        "constructions": [
+                          {
+                            "text": "strange to"
+                          },
+                          {
+                            "text": "strange at"
+                          },
+                          {
+                            "text": "strange in"
+                          }
+                        ],
+                        "definitions": [
+                          "unaccustomed to or unfamiliar with"
+                        ],
+                        "examples": [
+                          {
+                            "text": "I am strange to the work"
+                          }
+                        ],
+                        "id": "m_en_gbus1000740.014",
+                        "notes": [
+                          {
+                            "text": "predicative",
+                            "type": "grammaticalNote"
+                          },
+                          {
+                            "text": "\"strange to/at/in\"",
+                            "type": "wordFormNote"
+                          }
+                        ],
+                        "registers": [
+                          {
+                            "id": "archaic",
+                            "text": "Archaic"
+                          }
+                        ],
+                        "shortDefinitions": [
+                          "unaccustomed to or unfamiliar with"
+                        ],
+                        "thesaurusLinks": [
+                          {
+                            "entry_id": "a_stranger_to",
+                            "sense_id": "t_en_gb0014196.003"
+                          }
+                        ]
+                      }
+                    ],
+                    "thesaurusLinks": [
+                      {
+                        "entry_id": "strange",
+                        "sense_id": "t_en_gb0014193.003"
+                      }
+                    ]
+                  },
+                  {
+                    "definitions": [
+                      "(of a subatomic particle) having a nonzero value for strangeness."
+                    ],
+                    "domains": [
+                      {
+                        "id": "physics",
+                        "text": "Physics"
+                      }
+                    ],
+                    "id": "m_en_gbus1000740.016",
+                    "shortDefinitions": [
+                      "(of subatomic particle) having non-zero value for strangeness"
+                    ]
+                  }
+                ]
+              }
+            ],
+            "language": "en-us",
+            "lexicalCategory": {
+              "id": "adjective",
+              "text": "Adjective"
+            },
+            "pronunciations": [
+              {
+                "dialects": [
+                  "American English"
+                ],
+                "phoneticNotation": "respell",
+                "phoneticSpelling": "strānj"
+              },
+              {
+                "audioFile": "http://audio.oxforddictionaries.com/en/mp3/strange_us_1.mp3",
+                "dialects": [
+                  "American English"
+                ],
+                "phoneticNotation": "IPA",
+                "phoneticSpelling": "streɪndʒ"
+              }
+            ],
+            "text": "strange"
+          }
+        ],
+        "type": "headword",
+        "word": "strange"
+      }
+    ],
+    "word": "strange"
+  },
+  {
+    "id": "stripe",
+    "metadata": {
+      "operation": "retrieve",
+      "provider": "Oxford University Press",
+      "schema": "RetrieveEntry"
+    },
+    "results": [
+      {
+        "id": "stripe",
+        "language": "en-us",
+        "lexicalEntries": [
+          {
+            "entries": [
+              {
+                "etymologies": [
+                  "late Middle English: perhaps a back-formation from striped, of Dutch or Low German origin; compare with Middle Dutch and Middle Low German strīpe"
+                ],
+                "senses": [
+                  {
+                    "definitions": [
+                      "a long narrow band or strip, typically of the same width throughout its length, differing in color or texture from the surface on either side of it"
+                    ],
+                    "examples": [
+                      {
+                        "text": "a pair of blue shorts with pink stripes"
+                      }
+                    ],
+                    "id": "m_en_gbus1003330.007",
+                    "shortDefinitions": [
+                      "long, narrow band or strip differing in colour or texture from surface on either side of it"
+                    ],
+                    "subsenses": [
+                      {
+                        "definitions": [
+                          "a blow with a scourge or lash."
+                        ],
+                        "id": "m_en_gbus1003330.010",
+                        "registers": [
+                          {
+                            "id": "archaic",
+                            "text": "Archaic"
+                          }
+                        ],
+                        "shortDefinitions": [
+                          "blow with scourge or lash"
+                        ],
+                        "thesaurusLinks": [
+                          {
+                            "entry_id": "lash",
+                            "sense_id": "t_en_gb0008555.010"
+                          }
+                        ]
+                      }
+                    ],
+                    "thesaurusLinks": [
+                      {
+                        "entry_id": "stripe",
+                        "sense_id": "t_en_gb0014234.001"
+                      }
+                    ]
+                  },
+                  {
+                    "definitions": [
+                      "a chevron sewn on to a uniform to denote military rank"
+                    ],
+                    "domains": [
+                      {
+                        "id": "military",
+                        "text": "Military"
+                      }
+                    ],
+                    "examples": [
+                      {
+                        "text": "he was wearing his old uniform without its sergeant's stripes"
+                      }
+                    ],
+                    "id": "m_en_gbus1003330.012",
+                    "shortDefinitions": [
+                      "chevron sewn on to uniform to denote military rank"
+                    ],
+                    "thesaurusLinks": [
+                      {
+                        "entry_id": "flash",
+                        "sense_id": "t_en_gb0005743.007"
+                      }
+                    ]
+                  },
+                  {
+                    "constructions": [
+                      {
+                        "text": "of stripes"
+                      }
+                    ],
+                    "definitions": [
+                      "a type or category"
+                    ],
+                    "examples": [
+                      {
+                        "text": "entrepreneurs of all stripes are joining in the offensive"
+                      }
+                    ],
+                    "id": "m_en_gbus1003330.014",
+                    "regions": [
+                      {
+                        "id": "north_american",
+                        "text": "North_American"
+                      }
+                    ],
+                    "shortDefinitions": [
+                      "type or category"
+                    ],
+                    "thesaurusLinks": [
+                      {
+                        "entry_id": "description",
+                        "sense_id": "t_en_gb0003764.003"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "language": "en-us",
+            "lexicalCategory": {
+              "id": "noun",
+              "text": "Noun"
+            },
+            "pronunciations": [
+              {
+                "dialects": [
+                  "American English"
+                ],
+                "phoneticNotation": "respell",
+                "phoneticSpelling": "strīp"
+              },
+              {
+                "audioFile": "http://audio.oxforddictionaries.com/en/mp3/stripe_us_1.mp3",
+                "dialects": [
+                  "American English"
+                ],
+                "phoneticNotation": "IPA",
+                "phoneticSpelling": "straɪp"
+              }
+            ],
+            "text": "stripe"
+          },
+          {
+            "entries": [
+              {
+                "grammaticalFeatures": [
+                  {
+                    "id": "transitive",
+                    "text": "Transitive",
+                    "type": "Subcategorization"
+                  }
+                ],
+                "notes": [
+                  {
+                    "text": "usually \"be striped\"",
+                    "type": "wordFormNote"
+                  }
+                ],
+                "senses": [
+                  {
+                    "definitions": [
+                      "mark with stripes"
+                    ],
+                    "examples": [
+                      {
+                        "text": "her body was striped with bands of sunlight"
+                      }
+                    ],
+                    "id": "m_en_gbus1003330.016",
+                    "shortDefinitions": [
+                      "mark with stripes"
+                    ]
+                  }
+                ]
+              }
+            ],
+            "language": "en-us",
+            "lexicalCategory": {
+              "id": "verb",
+              "text": "Verb"
+            },
+            "pronunciations": [
+              {
+                "dialects": [
+                  "American English"
+                ],
+                "phoneticNotation": "respell",
+                "phoneticSpelling": "strīp"
+              },
+              {
+                "audioFile": "http://audio.oxforddictionaries.com/en/mp3/stripe_us_1.mp3",
+                "dialects": [
+                  "American English"
+                ],
+                "phoneticNotation": "IPA",
+                "phoneticSpelling": "straɪp"
+              }
+            ],
+            "text": "stripe"
+          }
+        ],
+        "type": "headword",
+        "word": "stripe"
+      }
+    ],
+    "word": "stripe"
+  },
+  {
+    "id": "basket",
+    "metadata": {
+      "operation": "retrieve",
+      "provider": "Oxford University Press",
+      "schema": "RetrieveEntry"
+    },
+    "results": [
+      {
+        "id": "basket",
+        "language": "en-us",
+        "lexicalEntries": [
+          {
+            "derivatives": [
+              {
+                "id": "basketful",
+                "text": "basketful"
+              }
+            ],
+            "entries": [
+              {
+                "etymologies": [
+                  "Middle English: from Old French basket, of unknown ultimate origin"
+                ],
+                "senses": [
+                  {
+                    "definitions": [
+                      "a container used to hold or carry things, typically made from interwoven strips of cane or wire"
+                    ],
+                    "examples": [
+                      {
+                        "text": "a laundry basket"
+                      }
+                    ],
+                    "id": "m_en_gbus0076660.006",
+                    "shortDefinitions": [
+                      "container made from interwoven strips"
+                    ],
+                    "subsenses": [
+                      {
+                        "definitions": [
+                          "a facility on a website that records items selected by a customer for purchase until the transaction is completed"
+                        ],
+                        "domains": [
+                          {
+                            "id": "computing",
+                            "text": "Computing"
+                          }
+                        ],
+                        "examples": [
+                          {
+                            "text": "click on the order button to add a title to your basket"
+                          }
+                        ],
+                        "id": "m_en_gbus0076660.010",
+                        "shortDefinitions": [
+                          "facility on website that records items selected for purchase"
+                        ],
+                        "variantForms": [
+                          {
+                            "text": "shopping basket"
+                          }
+                        ]
+                      },
+                      {
+                        "definitions": [
+                          "a structure suspended from a hot-air balloon for carrying the crew, equipment, and ballast."
+                        ],
+                        "domains": [
+                          {
+                            "id": "aviation",
+                            "text": "Aviation"
+                          }
+                        ],
+                        "id": "m_en_gbus0076660.013",
+                        "shortDefinitions": [
+                          "structure suspended from hot-air balloon for carrying crew and ballast"
+                        ]
+                      },
+                      {
+                        "definitions": [
+                          "a group or range of currencies or investments"
+                        ],
+                        "domains": [
+                          {
+                            "id": "finance",
+                            "text": "Finance"
+                          }
+                        ],
+                        "examples": [
+                          {
+                            "text": "the European currency unit is made up of a basket of ten currencies"
+                          }
+                        ],
+                        "id": "m_en_gbus0076660.014",
+                        "shortDefinitions": [
+                          "group of currencies"
+                        ]
+                      }
+                    ],
+                    "thesaurusLinks": [
+                      {
+                        "entry_id": "basket",
+                        "sense_id": "t_en_gb0001194.001"
+                      }
+                    ]
+                  },
+                  {
+                    "definitions": [
+                      "a net fixed on a hoop used as the goal."
+                    ],
+                    "domains": [
+                      {
+                        "id": "basketball",
+                        "text": "Basketball"
+                      }
+                    ],
+                    "id": "m_en_gbus0076660.016",
+                    "shortDefinitions": [
+                      "basketball hoop"
+                    ],
+                    "subsenses": [
+                      {
+                        "definitions": [
+                          "a goal scored."
+                        ],
+                        "domains": [
+                          {
+                            "id": "basketball",
+                            "text": "Basketball"
+                          }
+                        ],
+                        "id": "m_en_gbus0076660.017",
+                        "shortDefinitions": [
+                          "basketball goal"
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "language": "en-us",
+            "lexicalCategory": {
+              "id": "noun",
+              "text": "Noun"
+            },
+            "pronunciations": [
+              {
+                "dialects": [
+                  "American English"
+                ],
+                "phoneticNotation": "respell",
+                "phoneticSpelling": "ˈbaskət"
+              },
+              {
+                "audioFile": "http://audio.oxforddictionaries.com/en/mp3/basket_us_1.mp3",
+                "dialects": [
+                  "American English"
+                ],
+                "phoneticNotation": "IPA",
+                "phoneticSpelling": "ˈbæskət"
+              }
+            ],
+            "text": "basket"
+          }
+        ],
+        "type": "headword",
+        "word": "basket"
+      }
+    ],
+    "word": "basket"
+  },
+  {
+    "id": "steep",
+    "metadata": {
+      "operation": "retrieve",
+      "provider": "Oxford University Press",
+      "schema": "RetrieveEntry"
+    },
+    "results": [
+      {
+        "id": "steep",
+        "language": "en-us",
+        "lexicalEntries": [
+          {
+            "derivatives": [
+              {
+                "id": "steepish",
+                "text": "steepish"
+              },
+              {
+                "id": "steepness",
+                "text": "steepness"
+              }
+            ],
+            "entries": [
+              {
+                "etymologies": [
+                  "Old English stēap ‘extending to a great height’, of West Germanic origin; related to steeple and stoop"
+                ],
+                "homographNumber": "100",
+                "senses": [
+                  {
+                    "definitions": [
+                      "(of a slope, flight of stairs, angle, ascent, etc.) rising or falling sharply; nearly perpendicular"
+                    ],
+                    "examples": [
+                      {
+                        "text": "she pushed the bike up the steep hill"
+                      }
+                    ],
+                    "id": "m_en_gbus0992090.006",
+                    "shortDefinitions": [
+                      "rising or falling sharply"
+                    ],
+                    "subsenses": [
+                      {
+                        "definitions": [
+                          "(of a rise or fall in an amount) large or rapid"
+                        ],
+                        "examples": [
+                          {
+                            "text": "the steep rise in unemployment"
+                          }
+                        ],
+                        "id": "m_en_gbus0992090.010",
+                        "shortDefinitions": [
+                          "very large or rapid"
+                        ],
+                        "thesaurusLinks": [
+                          {
+                            "entry_id": "steep",
+                            "sense_id": "t_en_gb0014091.002"
+                          }
+                        ]
+                      }
+                    ],
+                    "thesaurusLinks": [
+                      {
+                        "entry_id": "steep",
+                        "sense_id": "t_en_gb0014091.001"
+                      }
+                    ]
+                  },
+                  {
+                    "definitions": [
+                      "(of a price or demand) not reasonable; excessive"
+                    ],
+                    "examples": [
+                      {
+                        "text": "a steep membership fee"
+                      }
+                    ],
+                    "id": "m_en_gbus0992090.012",
+                    "registers": [
+                      {
+                        "id": "informal",
+                        "text": "Informal"
+                      }
+                    ],
+                    "shortDefinitions": [
+                      "not reasonable"
+                    ],
+                    "subsenses": [
+                      {
+                        "definitions": [
+                          "(of a claim or account) exaggerated or incredible"
+                        ],
+                        "examples": [
+                          {
+                            "text": "this is a rather steep statement"
+                          }
+                        ],
+                        "id": "m_en_gbus0992090.013",
+                        "registers": [
+                          {
+                            "id": "dated",
+                            "text": "Dated"
+                          }
+                        ],
+                        "shortDefinitions": [
+                          "exaggerated or incredible"
+                        ]
+                      }
+                    ],
+                    "thesaurusLinks": [
+                      {
+                        "entry_id": "steep",
+                        "sense_id": "t_en_gb0014091.003"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "language": "en-us",
+            "lexicalCategory": {
+              "id": "adjective",
+              "text": "Adjective"
+            },
+            "pronunciations": [
+              {
+                "dialects": [
+                  "American English"
+                ],
+                "phoneticNotation": "respell",
+                "phoneticSpelling": "stēp"
+              },
+              {
+                "audioFile": "http://audio.oxforddictionaries.com/en/mp3/steep_us_1.mp3",
+                "dialects": [
+                  "American English"
+                ],
+                "phoneticNotation": "IPA",
+                "phoneticSpelling": "stip"
+              }
+            ],
+            "text": "steep"
+          },
+          {
+            "derivatives": [
+              {
+                "id": "steepish",
+                "text": "steepish"
+              },
+              {
+                "id": "steepness",
+                "text": "steepness"
+              }
+            ],
+            "entries": [
+              {
+                "homographNumber": "101",
+                "senses": [
+                  {
+                    "definitions": [
+                      "a steep mountain slope"
+                    ],
+                    "domains": [
+                      {
+                        "id": "skiing",
+                        "text": "Skiing"
+                      }
+                    ],
+                    "examples": [
+                      {
+                        "text": "hair-raising steeps"
+                      }
+                    ],
+                    "id": "m_en_gbus0992090.015",
+                    "registers": [
+                      {
+                        "id": "literary",
+                        "text": "Literary"
+                      }
+                    ],
+                    "shortDefinitions": [
+                      "steep mountain slope"
+                    ]
+                  }
+                ]
+              }
+            ],
+            "language": "en-us",
+            "lexicalCategory": {
+              "id": "noun",
+              "text": "Noun"
+            },
+            "pronunciations": [
+              {
+                "dialects": [
+                  "American English"
+                ],
+                "phoneticNotation": "respell",
+                "phoneticSpelling": "stēp"
+              },
+              {
+                "audioFile": "http://audio.oxforddictionaries.com/en/mp3/steep_us_1.mp3",
+                "dialects": [
+                  "American English"
+                ],
+                "phoneticNotation": "IPA",
+                "phoneticSpelling": "stip"
+              }
+            ],
+            "text": "steep"
+          }
+        ],
+        "type": "headword",
+        "word": "steep"
+      },
+      {
+        "id": "steep",
+        "language": "en-us",
+        "lexicalEntries": [
+          {
+            "entries": [
+              {
+                "etymologies": [
+                  "Middle English: of Germanic origin; related to stoup"
+                ],
+                "grammaticalFeatures": [
+                  {
+                    "id": "transitive",
+                    "text": "Transitive",
+                    "type": "Subcategorization"
+                  }
+                ],
+                "homographNumber": "200",
+                "senses": [
+                  {
+                    "definitions": [
+                      "soak (food or tea) in water or other liquid so as to extract its flavor or to soften it"
+                    ],
+                    "domains": [
+                      {
+                        "id": "cooking",
+                        "text": "Cooking"
+                      }
+                    ],
+                    "examples": [
+                      {
+                        "text": "the chilies are steeped in olive oil"
+                      },
+                      {
+                        "notes": [
+                          {
+                            "text": "no object",
+                            "type": "grammaticalNote"
+                          }
+                        ],
+                        "text": "the noodles should be left to steep for 3–4 minutes"
+                      }
+                    ],
+                    "id": "m_en_gbus0992100.006",
+                    "shortDefinitions": [
+                      "soak food or tea in water or other liquid so as to extract its flavour or to soften it"
+                    ],
+                    "subsenses": [
+                      {
+                        "definitions": [
+                          "soak or saturate (cloth) in water or other liquid"
+                        ],
+                        "examples": [
+                          {
+                            "text": "sheets were steeped in mercury sulfate as a disinfectant"
+                          }
+                        ],
+                        "id": "m_en_gbus0992100.012",
+                        "shortDefinitions": [
+                          "soak or saturate cloth in water or other liquid"
+                        ],
+                        "thesaurusLinks": [
+                          {
+                            "entry_id": "steep",
+                            "sense_id": "t_en_gb0014092.002"
+                          }
+                        ]
+                      }
+                    ],
+                    "thesaurusLinks": [
+                      {
+                        "entry_id": "steep",
+                        "sense_id": "t_en_gb0014092.001"
+                      }
+                    ]
+                  },
+                  {
+                    "definitions": [
+                      "surround or fill with a quality or influence"
+                    ],
+                    "examples": [
+                      {
+                        "text": "a city steeped in history"
+                      }
+                    ],
+                    "id": "m_en_gbus0992100.014",
+                    "notes": [
+                      {
+                        "text": "usually \"be steeped in\"",
+                        "type": "wordFormNote"
+                      }
+                    ],
+                    "shortDefinitions": [
+                      "surround or fill with quality or influence"
+                    ],
+                    "thesaurusLinks": [
+                      {
+                        "entry_id": "steep",
+                        "sense_id": "t_en_gb0014092.003"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "language": "en-us",
+            "lexicalCategory": {
+              "id": "verb",
+              "text": "Verb"
+            },
+            "pronunciations": [
+              {
+                "dialects": [
+                  "American English"
+                ],
+                "phoneticNotation": "respell",
+                "phoneticSpelling": "stēp"
+              },
+              {
+                "audioFile": "http://audio.oxforddictionaries.com/en/mp3/steep_us_1.mp3",
+                "dialects": [
+                  "American English"
+                ],
+                "phoneticNotation": "IPA",
+                "phoneticSpelling": "stip"
+              }
+            ],
+            "text": "steep"
+          }
+        ],
+        "type": "headword",
+        "word": "steep"
+      }
+    ],
+    "word": "steep"
+  },
+  {
+    "id": "stone",
+    "metadata": {
+      "operation": "retrieve",
+      "provider": "Oxford University Press",
+      "schema": "RetrieveEntry"
+    },
+    "results": [
+      {
+        "id": "stone",
+        "language": "en-us",
+        "lexicalEntries": [
+          {
+            "derivatives": [
+              {
+                "id": "stoneless",
+                "text": "stoneless"
+              }
+            ],
+            "entries": [
+              {
+                "etymologies": [
+                  "Old English stān (noun), of Germanic origin; related to Dutch steen and German Stein. The verb dates from Middle English (first recorded in stone (sense 1 of the verb))"
+                ],
+                "senses": [
+                  {
+                    "definitions": [
+                      "hard solid nonmetallic mineral matter of which rock is made, especially as a building material"
+                    ],
+                    "domains": [
+                      {
+                        "id": "geology",
+                        "text": "Geology"
+                      }
+                    ],
+                    "examples": [
+                      {
+                        "text": "the houses are built of stone"
+                      },
+                      {
+                        "notes": [
+                          {
+                            "text": "as modifier",
+                            "type": "grammaticalNote"
+                          }
+                        ],
+                        "text": "high stone walls"
+                      }
+                    ],
+                    "id": "m_en_gbus0997850.006",
+                    "shortDefinitions": [
+                      "hard solid non-metallic mineral matter of which rock is made"
+                    ],
+                    "subsenses": [
+                      {
+                        "definitions": [
+                          "used in similes and metaphors to refer to weight or lack of feeling, expression, or movement"
+                        ],
+                        "examples": [
+                          {
+                            "text": "Isabel stood as if turned to stone"
+                          },
+                          {
+                            "text": "the elevator dropped like a stone"
+                          },
+                          {
+                            "text": "her face became as hard as stone"
+                          }
+                        ],
+                        "id": "m_en_gbus0997850.008",
+                        "shortDefinitions": [
+                          "used in similes and metaphors to refer to weight or lack of feeling or movement"
+                        ]
+                      },
+                      {
+                        "definitions": [
+                          "a small piece of rock found on the ground."
+                        ],
+                        "id": "m_en_gbus0997850.009",
+                        "shortDefinitions": [
+                          "small piece of rock found on ground"
+                        ],
+                        "thesaurusLinks": [
+                          {
+                            "entry_id": "stone",
+                            "sense_id": "t_en_gb0014154.001"
+                          }
+                        ]
+                      },
+                      {
+                        "definitions": [
+                          "a meteorite made of rock, as opposed to metal."
+                        ],
+                        "domains": [
+                          {
+                            "id": "astronomy",
+                            "text": "Astronomy"
+                          }
+                        ],
+                        "id": "m_en_gbus0997850.012",
+                        "shortDefinitions": [
+                          "meteorite made of rock, as opposed to metal"
+                        ]
+                      },
+                      {
+                        "definitions": [
+                          "a calculus; a gallstone or kidney stone."
+                        ],
+                        "domains": [
+                          {
+                            "id": "medicine",
+                            "text": "Medicine"
+                          }
+                        ],
+                        "id": "m_en_gbus0997850.013",
+                        "shortDefinitions": [
+                          "calculus"
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "definitions": [
+                      "a piece of stone shaped for a purpose, especially one of commemoration, ceremony, or demarcation"
+                    ],
+                    "examples": [
+                      {
+                        "text": "a memorial stone"
+                      },
+                      {
+                        "text": "boundary stones"
+                      }
+                    ],
+                    "id": "m_en_gbus0997850.015",
+                    "shortDefinitions": [
+                      "piece of stone shaped for purpose"
+                    ],
+                    "subsenses": [
+                      {
+                        "definitions": [
+                          "a gem or jewel"
+                        ],
+                        "domains": [
+                          {
+                            "id": "jewellery",
+                            "text": "Jewellery"
+                          }
+                        ],
+                        "examples": [
+                          {
+                            "text": "a gold ring with a small dark red stone"
+                          }
+                        ],
+                        "id": "m_en_gbus0997850.016",
+                        "shortDefinitions": [
+                          "gem or jewel"
+                        ],
+                        "thesaurusLinks": [
+                          {
+                            "entry_id": "stone",
+                            "sense_id": "t_en_gb0014154.004"
+                          }
+                        ]
+                      },
+                      {
+                        "crossReferenceMarkers": [
+                          "short for curling stone"
+                        ],
+                        "crossReferences": [
+                          {
+                            "id": "curling_stone",
+                            "text": "curling stone",
+                            "type": "abbreviation of"
+                          }
+                        ],
+                        "id": "m_en_gbus0997850.017"
+                      },
+                      {
+                        "definitions": [
+                          "a round piece or counter, originally made of stone, used in various board games such as backgammon."
+                        ],
+                        "domains": [
+                          {
+                            "id": "games",
+                            "text": "Games"
+                          }
+                        ],
+                        "id": "m_en_gbus0997850.018",
+                        "shortDefinitions": [
+                          "round piece or counter, originally made of stone, used in various board games"
+                        ]
+                      },
+                      {
+                        "definitions": [
+                          "a large flat table or sheet, originally made of stone and later usually of metal, on which pages of type were made up."
+                        ],
+                        "domains": [
+                          {
+                            "id": "furniture",
+                            "text": "Furniture"
+                          }
+                        ],
+                        "id": "m_en_gbus0997850.019",
+                        "shortDefinitions": [
+                          "large flat table or sheet"
+                        ]
+                      }
+                    ],
+                    "thesaurusLinks": [
+                      {
+                        "entry_id": "stone",
+                        "sense_id": "t_en_gb0014154.002"
+                      }
+                    ]
+                  },
+                  {
+                    "definitions": [
+                      "a hard seed in a cherry, plum, peach, and some other fruits."
+                    ],
+                    "id": "m_en_gbus0997850.021",
+                    "shortDefinitions": [
+                      "hard seed in cherry, plum, peach"
+                    ],
+                    "thesaurusLinks": [
+                      {
+                        "entry_id": "stone",
+                        "sense_id": "t_en_gb0014154.005"
+                      }
+                    ]
+                  },
+                  {
+                    "definitions": [
+                      "a unit of weight equal to 14 pounds (6.35 kg)"
+                    ],
+                    "domains": [
+                      {
+                        "id": "measure",
+                        "text": "Measure"
+                      }
+                    ],
+                    "examples": [
+                      {
+                        "text": "I weighed 10 stone"
+                      }
+                    ],
+                    "id": "m_en_gbus0997850.023",
+                    "regions": [
+                      {
+                        "id": "british",
+                        "text": "British"
+                      }
+                    ],
+                    "shortDefinitions": [
+                      "unit of weight equal to 14 lb"
+                    ]
+                  },
+                  {
+                    "definitions": [
+                      "a natural shade of whitish-gray or brownish-gray"
+                    ],
+                    "examples": [
+                      {
+                        "notes": [
+                          {
+                            "text": "as modifier",
+                            "type": "grammaticalNote"
+                          }
+                        ],
+                        "text": "stone stretch trousers"
+                      }
+                    ],
+                    "id": "m_en_gbus0997850.025",
+                    "shortDefinitions": [
+                      "natural shade of whitish or brownish-grey"
+                    ],
+                    "thesaurusLinks": [
+                      {
+                        "entry_id": "beige",
+                        "sense_id": "t_en_gb0001310.001"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "language": "en-us",
+            "lexicalCategory": {
+              "id": "noun",
+              "text": "Noun"
+            },
+            "pronunciations": [
+              {
+                "dialects": [
+                  "American English"
+                ],
+                "phoneticNotation": "respell",
+                "phoneticSpelling": "stōn"
+              },
+              {
+                "audioFile": "http://audio.oxforddictionaries.com/en/mp3/stone_us_1.mp3",
+                "dialects": [
+                  "American English"
+                ],
+                "phoneticNotation": "IPA",
+                "phoneticSpelling": "stoʊn"
+              }
+            ],
+            "text": "stone"
+          },
+          {
+            "derivatives": [
+              {
+                "id": "stoneless",
+                "text": "stoneless"
+              }
+            ],
+            "entries": [
+              {
+                "grammaticalFeatures": [
+                  {
+                    "id": "transitive",
+                    "text": "Transitive",
+                    "type": "Subcategorization"
+                  }
+                ],
+                "senses": [
+                  {
+                    "definitions": [
+                      "throw stones at"
+                    ],
+                    "examples": [
+                      {
+                        "text": "policemen were stoned by the crowd"
+                      }
+                    ],
+                    "id": "m_en_gbus0997850.028",
+                    "shortDefinitions": [
+                      "throw stones at"
+                    ]
+                  },
+                  {
+                    "definitions": [
+                      "remove the stone from (a fruit)"
+                    ],
+                    "examples": [
+                      {
+                        "text": "halve, stone, and peel the avocados"
+                      }
+                    ],
+                    "id": "m_en_gbus0997850.036",
+                    "regions": [
+                      {
+                        "id": "british",
+                        "text": "British"
+                      }
+                    ],
+                    "shortDefinitions": [
+                      "remove stone from"
+                    ]
+                  },
+                  {
+                    "definitions": [
+                      "build, face, or pave with stone"
+                    ],
+                    "examples": [
+                      {
+                        "notes": [
+                          {
+                            "text": "as adjective, in combination \"-stoned\"",
+                            "type": "wordFormNote"
+                          }
+                        ],
+                        "text": "the honey-stoned, eighteenth-century city"
+                      }
+                    ],
+                    "id": "m_en_gbus0997850.038",
+                    "shortDefinitions": [
+                      "build, face, or pave with stone"
+                    ]
+                  }
+                ]
+              }
+            ],
+            "language": "en-us",
+            "lexicalCategory": {
+              "id": "verb",
+              "text": "Verb"
+            },
+            "pronunciations": [
+              {
+                "dialects": [
+                  "American English"
+                ],
+                "phoneticNotation": "respell",
+                "phoneticSpelling": "stōn"
+              },
+              {
+                "audioFile": "http://audio.oxforddictionaries.com/en/mp3/stone_us_1.mp3",
+                "dialects": [
+                  "American English"
+                ],
+                "phoneticNotation": "IPA",
+                "phoneticSpelling": "stoʊn"
+              }
+            ],
+            "text": "stone"
+          }
+        ],
+        "type": "headword",
+        "word": "stone"
+      }
+    ],
+    "word": "stone"
+  },
+  {
+    "id": "stand",
+    "metadata": {
+      "operation": "retrieve",
+      "provider": "Oxford University Press",
+      "schema": "RetrieveEntry"
+    },
+    "results": [
+      {
+        "id": "stand",
+        "language": "en-us",
+        "lexicalEntries": [
+          {
+            "derivatives": [
+              {
+                "id": "stander",
+                "text": "stander"
+              }
+            ],
+            "entries": [
+              {
+                "etymologies": [
+                  "Old English standan (verb), stand (noun), of Germanic origin, from an Indo-European root shared by Latin stare and Greek histanai, also by the noun stead"
+                ],
+                "senses": [
+                  {
+                    "definitions": [
+                      "have or maintain an upright position, supported by one's feet"
+                    ],
+                    "examples": [
+                      {
+                        "text": "Lionel stood in the doorway"
+                      },
+                      {
+                        "text": "she stood still, heart hammering"
+                      }
+                    ],
+                    "id": "m_en_gbus0987460.010",
+                    "notes": [
+                      {
+                        "text": "no object, usually with adverbial of place",
+                        "type": "grammaticalNote"
+                      }
+                    ],
+                    "shortDefinitions": [
+                      "have or maintain upright position, supported by one's feet"
+                    ],
+                    "subsenses": [
+                      {
+                        "definitions": [
+                          "rise to one's feet"
+                        ],
+                        "examples": [
+                          {
+                            "text": "the two men stood up and shook hands"
+                          }
+                        ],
+                        "id": "m_en_gbus0987460.016",
+                        "shortDefinitions": [
+                          "rise to one's feet"
+                        ],
+                        "thesaurusLinks": [
+                          {
+                            "entry_id": "stand",
+                            "sense_id": "t_en_gb0014038.002"
+                          }
+                        ]
+                      },
+                      {
+                        "definitions": [
+                          "move to and remain in a specified position"
+                        ],
+                        "examples": [
+                          {
+                            "text": "she stood aside to let them enter"
+                          }
+                        ],
+                        "id": "m_en_gbus0987460.017",
+                        "shortDefinitions": [
+                          "move somewhere in upright position"
+                        ]
+                      },
+                      {
+                        "definitions": [
+                          "place or set in an upright or specified position"
+                        ],
+                        "examples": [
+                          {
+                            "text": "don't stand the plant in direct sunlight"
+                          }
+                        ],
+                        "id": "m_en_gbus0987460.018",
+                        "notes": [
+                          {
+                            "text": "with object and adverbial of place",
+                            "type": "grammaticalNote"
+                          }
+                        ],
+                        "shortDefinitions": [
+                          "place or set in upright or specified position"
+                        ],
+                        "thesaurusLinks": [
+                          {
+                            "entry_id": "stand",
+                            "sense_id": "t_en_gb0014038.004"
+                          }
+                        ]
+                      }
+                    ],
+                    "thesaurusLinks": [
+                      {
+                        "entry_id": "stand",
+                        "sense_id": "t_en_gb0014038.001"
+                      }
+                    ]
+                  },
+                  {
+                    "definitions": [
+                      "(of an object, building, or settlement) be situated in a particular place or position"
+                    ],
+                    "examples": [
+                      {
+                        "text": "the town stood on a hill"
+                      },
+                      {
+                        "text": "the hotel stands in three acres of gardens"
+                      }
+                    ],
+                    "id": "m_en_gbus0987460.021",
+                    "notes": [
+                      {
+                        "text": "no object, with adverbial of place",
+                        "type": "grammaticalNote"
+                      }
+                    ],
+                    "shortDefinitions": [
+                      "be situated in particular place or position"
+                    ],
+                    "subsenses": [
+                      {
+                        "definitions": [
+                          "(of a building or other vertical structure) remain upright and entire rather than fall into ruin or be destroyed"
+                        ],
+                        "examples": [
+                          {
+                            "text": "after the heavy storms, only one house was left standing"
+                          }
+                        ],
+                        "id": "m_en_gbus0987460.022",
+                        "shortDefinitions": [
+                          "remain upright and entire rather than fall into ruin or be destroyed"
+                        ]
+                      },
+                      {
+                        "definitions": [
+                          "remain valid or unaltered"
+                        ],
+                        "examples": [
+                          {
+                            "text": "my decision stands"
+                          },
+                          {
+                            "text": "his strikeout record stood for 38 years"
+                          }
+                        ],
+                        "id": "m_en_gbus0987460.023",
+                        "shortDefinitions": [
+                          "remain valid or unaltered"
+                        ],
+                        "thesaurusLinks": [
+                          {
+                            "entry_id": "stand",
+                            "sense_id": "t_en_gb0014038.005"
+                          }
+                        ]
+                      },
+                      {
+                        "definitions": [
+                          "(especially of a vehicle) remain stationary"
+                        ],
+                        "examples": [
+                          {
+                            "text": "the train now standing on track 3"
+                          }
+                        ],
+                        "id": "m_en_gbus0987460.024",
+                        "shortDefinitions": [
+                          "remain stationary"
+                        ]
+                      },
+                      {
+                        "definitions": [
+                          "(of a liquid) collect and remain motionless"
+                        ],
+                        "examples": [
+                          {
+                            "text": "avoid planting in soil where water stands in winter"
+                          }
+                        ],
+                        "id": "m_en_gbus0987460.025",
+                        "shortDefinitions": [
+                          "collect and remain motionless"
+                        ]
+                      },
+                      {
+                        "definitions": [
+                          "(of food, a mixture, or liquid) rest without disturbance, typically so as to infuse or marinate"
+                        ],
+                        "examples": [
+                          {
+                            "text": "pour boiling water over the fruit and leave it to stand for 5 minutes"
+                          }
+                        ],
+                        "id": "m_en_gbus0987460.026",
+                        "shortDefinitions": [
+                          "rest without disturbance"
+                        ]
+                      },
+                      {
+                        "definitions": [
+                          "(of a ship) remain on a specified course"
+                        ],
+                        "domains": [
+                          {
+                            "id": "nautical",
+                            "text": "Nautical"
+                          }
+                        ],
+                        "examples": [
+                          {
+                            "text": "the ship was standing north"
+                          }
+                        ],
+                        "id": "m_en_gbus0987460.027",
+                        "shortDefinitions": [
+                          "(of ship) remain on specified course"
+                        ]
+                      }
+                    ],
+                    "thesaurusLinks": [
+                      {
+                        "entry_id": "stand",
+                        "sense_id": "t_en_gb0014038.003"
+                      }
+                    ]
+                  },
+                  {
+                    "definitions": [
+                      "be in a specified state or condition"
+                    ],
+                    "examples": [
+                      {
+                        "text": "since mother's death the house had stood empty"
+                      },
+                      {
+                        "text": "sorry, darling—I stand corrected"
+                      }
+                    ],
+                    "id": "m_en_gbus0987460.029",
+                    "notes": [
+                      {
+                        "text": "no object, with complement",
+                        "type": "grammaticalNote"
+                      }
+                    ],
+                    "shortDefinitions": [
+                      "be in specified state or condition"
+                    ],
+                    "subsenses": [
+                      {
+                        "definitions": [
+                          "adopt a particular attitude toward a matter or issue"
+                        ],
+                        "examples": [
+                          {
+                            "text": "students should consider where they stand on this issue"
+                          }
+                        ],
+                        "id": "m_en_gbus0987460.030",
+                        "shortDefinitions": [
+                          "adopt particular attitude towards matter or issue"
+                        ]
+                      },
+                      {
+                        "definitions": [
+                          "be of a specified height"
+                        ],
+                        "examples": [
+                          {
+                            "text": "Sampson was a small man, standing 5 ft. 4 in. tall"
+                          }
+                        ],
+                        "id": "m_en_gbus0987460.031",
+                        "shortDefinitions": [
+                          "be of specified height"
+                        ]
+                      },
+                      {
+                        "definitions": [
+                          "be at (a particular level or value)"
+                        ],
+                        "examples": [
+                          {
+                            "text": "the budget stood at $14 million per annum"
+                          }
+                        ],
+                        "id": "m_en_gbus0987460.032",
+                        "notes": [
+                          {
+                            "text": "\"stand at\"",
+                            "type": "wordFormNote"
+                          }
+                        ],
+                        "shortDefinitions": [
+                          "be at"
+                        ]
+                      },
+                      {
+                        "definitions": [
+                          "be in a situation where one is likely to do something"
+                        ],
+                        "examples": [
+                          {
+                            "text": "investors stood to lose heavily"
+                          }
+                        ],
+                        "id": "m_en_gbus0987460.033",
+                        "notes": [
+                          {
+                            "text": "no object, with infinitive",
+                            "type": "grammaticalNote"
+                          }
+                        ],
+                        "shortDefinitions": [
+                          "be in situation where one is likely to do something"
+                        ]
+                      },
+                      {
+                        "definitions": [
+                          "act in a specified capacity"
+                        ],
+                        "examples": [
+                          {
+                            "text": "he stood watch all night"
+                          }
+                        ],
+                        "id": "m_en_gbus0987460.034",
+                        "shortDefinitions": [
+                          "act in specified capacity"
+                        ]
+                      },
+                      {
+                        "definitions": [
+                          "(of a stallion) be available for breeding."
+                        ],
+                        "id": "m_en_gbus0987460.035",
+                        "shortDefinitions": [
+                          "be available for breeding"
+                        ],
+                        "variantForms": [
+                          {
+                            "text": "stand at stud"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "definitions": [
+                      "withstand (an experience or test) without being damaged"
+                    ],
+                    "examples": [
+                      {
+                        "text": "small boats that could stand the punishment of heavy seas"
+                      }
+                    ],
+                    "id": "m_en_gbus0987460.038",
+                    "notes": [
+                      {
+                        "text": "with object and often modal",
+                        "type": "grammaticalNote"
+                      }
+                    ],
+                    "shortDefinitions": [
+                      "withstand experience or test without being damaged"
+                    ],
+                    "subsenses": [
+                      {
+                        "definitions": [
+                          "be able to endure or tolerate"
+                        ],
+                        "examples": [
+                          {
+                            "text": "I can't stand the way Mom talks to him"
+                          }
+                        ],
+                        "id": "m_en_gbus0987460.039",
+                        "notes": [
+                          {
+                            "text": "with modal and usually negative",
+                            "type": "grammaticalNote"
+                          }
+                        ],
+                        "registers": [
+                          {
+                            "id": "informal",
+                            "text": "Informal"
+                          }
+                        ],
+                        "shortDefinitions": [
+                          "be able to endure or tolerate"
+                        ],
+                        "thesaurusLinks": [
+                          {
+                            "entry_id": "stand",
+                            "sense_id": "t_en_gb0014038.006"
+                          },
+                          {
+                            "entry_id": "stand",
+                            "sense_id": "t_en_gb0014038.007"
+                          }
+                        ]
+                      }
+                    ],
+                    "thesaurusLinks": [
+                      {
+                        "entry_id": "bear",
+                        "sense_id": "t_en_gb0001240.006"
+                      }
+                    ]
+                  },
+                  {
+                    "definitions": [
+                      "be a candidate in an election"
+                    ],
+                    "domains": [
+                      {
+                        "id": "electoral",
+                        "text": "Electoral"
+                      }
+                    ],
+                    "examples": [
+                      {
+                        "text": "he stood for parliament in 1968"
+                      }
+                    ],
+                    "id": "m_en_gbus0987460.042",
+                    "notes": [
+                      {
+                        "text": "no object",
+                        "type": "grammaticalNote"
+                      }
+                    ],
+                    "regions": [
+                      {
+                        "id": "british",
+                        "text": "British"
+                      }
+                    ],
+                    "shortDefinitions": [
+                      "be candidate in election"
+                    ]
+                  },
+                  {
+                    "definitions": [
+                      "provide (food or drink) for someone at one's own expense"
+                    ],
+                    "examples": [
+                      {
+                        "text": "somebody in the bar would stand him a beer"
+                      }
+                    ],
+                    "id": "m_en_gbus0987460.046",
+                    "notes": [
+                      {
+                        "text": "usually with two objects",
+                        "type": "grammaticalNote"
+                      }
+                    ],
+                    "shortDefinitions": [
+                      "provide food or drink for someone at one's own expense"
+                    ]
+                  }
+                ]
+              }
+            ],
+            "language": "en-us",
+            "lexicalCategory": {
+              "id": "verb",
+              "text": "Verb"
+            },
+            "pronunciations": [
+              {
+                "dialects": [
+                  "American English"
+                ],
+                "phoneticNotation": "respell",
+                "phoneticSpelling": "stand"
+              },
+              {
+                "audioFile": "http://audio.oxforddictionaries.com/en/mp3/stand_us_1.mp3",
+                "dialects": [
+                  "American English"
+                ],
+                "phoneticNotation": "IPA",
+                "phoneticSpelling": "stænd"
+              }
+            ],
+            "text": "stand"
+          },
+          {
+            "derivatives": [
+              {
+                "id": "stander",
+                "text": "stander"
+              }
+            ],
+            "entries": [
+              {
+                "senses": [
+                  {
+                    "definitions": [
+                      "an attitude toward a particular issue; a position taken in an argument"
+                    ],
+                    "examples": [
+                      {
+                        "text": "the party's tough stand on welfare"
+                      },
+                      {
+                        "text": "his traditionalist stand"
+                      }
+                    ],
+                    "id": "m_en_gbus0987460.049",
+                    "notes": [
+                      {
+                        "text": "usually in singular",
+                        "type": "grammaticalNote"
+                      }
+                    ],
+                    "shortDefinitions": [
+                      "attitude towards particular issue"
+                    ],
+                    "subsenses": [
+                      {
+                        "definitions": [
+                          "a determined effort to resist or fight for something"
+                        ],
+                        "examples": [
+                          {
+                            "text": "this was not the moment to make a stand for independence"
+                          },
+                          {
+                            "text": "we have to take a stand against racism"
+                          }
+                        ],
+                        "id": "m_en_gbus0987460.052",
+                        "shortDefinitions": [
+                          "determined effort to resist or fight for something"
+                        ],
+                        "thesaurusLinks": [
+                          {
+                            "entry_id": "stand",
+                            "sense_id": "t_en_gb0014038.024"
+                          }
+                        ]
+                      },
+                      {
+                        "definitions": [
+                          "an act of holding one's ground against or halting to resist an opposing force"
+                        ],
+                        "domains": [
+                          {
+                            "id": "military",
+                            "text": "Military"
+                          }
+                        ],
+                        "examples": [
+                          {
+                            "text": "Custer's legendary last stand"
+                          }
+                        ],
+                        "id": "m_en_gbus0987460.053",
+                        "shortDefinitions": [
+                          "act of holding one's ground against or halting to resist opposing force"
+                        ],
+                        "thesaurusLinks": [
+                          {
+                            "entry_id": "stand",
+                            "sense_id": "t_en_gb0014038.024"
+                          }
+                        ]
+                      }
+                    ],
+                    "thesaurusLinks": [
+                      {
+                        "entry_id": "stand",
+                        "sense_id": "t_en_gb0014038.023"
+                      }
+                    ]
+                  },
+                  {
+                    "definitions": [
+                      "a rack, base, or piece of furniture for holding, supporting, or displaying something"
+                    ],
+                    "examples": [
+                      {
+                        "text": "a microphone stand"
+                      }
+                    ],
+                    "id": "m_en_gbus0987460.056",
+                    "shortDefinitions": [
+                      "rack, base, or piece of furniture for holding, supporting, or displaying something"
+                    ],
+                    "subsenses": [
+                      {
+                        "definitions": [
+                          "a small stall or booth in a street, market, or public building from which goods are sold"
+                        ],
+                        "examples": [
+                          {
+                            "text": "a hot-dog stand"
+                          }
+                        ],
+                        "id": "m_en_gbus0987460.057",
+                        "shortDefinitions": [
+                          "small stall or booth in street, market, or public building"
+                        ],
+                        "thesaurusLinks": [
+                          {
+                            "entry_id": "stand",
+                            "sense_id": "t_en_gb0014038.026"
+                          }
+                        ]
+                      },
+                      {
+                        "definitions": [
+                          "a raised platform for a band, orchestra, or speaker."
+                        ],
+                        "id": "m_en_gbus0987460.059",
+                        "shortDefinitions": [
+                          "raised platform for band or speaker"
+                        ]
+                      }
+                    ],
+                    "thesaurusLinks": [
+                      {
+                        "entry_id": "stand",
+                        "sense_id": "t_en_gb0014038.025"
+                      }
+                    ]
+                  },
+                  {
+                    "definitions": [
+                      "the place where someone typically stands or sits"
+                    ],
+                    "examples": [
+                      {
+                        "text": "she took her stand in front of the desks"
+                      }
+                    ],
+                    "id": "m_en_gbus0987460.061",
+                    "shortDefinitions": [
+                      "place where someone stands or sits"
+                    ],
+                    "subsenses": [
+                      {
+                        "definitions": [
+                          "a place where vehicles, typically taxicabs, wait for passengers"
+                        ],
+                        "examples": [
+                          {
+                            "text": "a taxi stand"
+                          },
+                          {
+                            "text": "the terminal's facilities include additional aircraft parking stands"
+                          }
+                        ],
+                        "id": "m_en_gbus0987460.062",
+                        "shortDefinitions": [
+                          "place where vehicles wait for passengers"
+                        ],
+                        "thesaurusLinks": [
+                          {
+                            "entry_id": "stand",
+                            "sense_id": "t_en_gb0014038.027"
+                          }
+                        ]
+                      },
+                      {
+                        "definitions": [
+                          "a witness box"
+                        ],
+                        "domains": [
+                          {
+                            "id": "law",
+                            "text": "Law"
+                          }
+                        ],
+                        "examples": [
+                          {
+                            "text": "Sergeant Harris took the stand"
+                          }
+                        ],
+                        "id": "m_en_gbus0987460.063",
+                        "notes": [
+                          {
+                            "text": "\"the stand\" or \"the witness stand\"",
+                            "type": "wordFormNote"
+                          }
+                        ],
+                        "shortDefinitions": [
+                          "witness box"
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "definitions": [
+                      "a large raised tiered structure for spectators, typically at a sports arena"
+                    ],
+                    "examples": [
+                      {
+                        "text": "her parents watched from the stands"
+                      }
+                    ],
+                    "id": "m_en_gbus0987460.066",
+                    "shortDefinitions": [
+                      "large raised tiered structure for spectators"
+                    ]
+                  },
+                  {
+                    "definitions": [
+                      "a cessation from motion or progress"
+                    ],
+                    "examples": [
+                      {
+                        "text": "the train drew to a stand by the signal box"
+                      }
+                    ],
+                    "id": "m_en_gbus0987460.068",
+                    "notes": [
+                      {
+                        "text": "usually in singular",
+                        "type": "grammaticalNote"
+                      }
+                    ],
+                    "shortDefinitions": [
+                      "cessation from motion or progress"
+                    ],
+                    "subsenses": [
+                      {
+                        "definitions": [
+                          "each halt made on a touring theatrical production to give one or more performances."
+                        ],
+                        "domains": [
+                          {
+                            "id": "theatre",
+                            "text": "Theatre"
+                          }
+                        ],
+                        "id": "m_en_gbus0987460.071",
+                        "shortDefinitions": [
+                          "each halt made on touring theatrical production to give one or more performances"
+                        ]
+                      }
+                    ],
+                    "thesaurusLinks": [
+                      {
+                        "entry_id": "stand",
+                        "sense_id": "t_en_gb0014038.028"
+                      }
+                    ]
+                  },
+                  {
+                    "definitions": [
+                      "a group of growing plants of a specified kind, especially trees"
+                    ],
+                    "examples": [
+                      {
+                        "text": "a stand of poplars"
+                      }
+                    ],
+                    "id": "m_en_gbus0987460.073",
+                    "shortDefinitions": [
+                      "group of growing plants of specified kind"
+                    ],
+                    "thesaurusLinks": [
+                      {
+                        "entry_id": "stand",
+                        "sense_id": "t_en_gb0014038.029"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "language": "en-us",
+            "lexicalCategory": {
+              "id": "noun",
+              "text": "Noun"
+            },
+            "pronunciations": [
+              {
+                "dialects": [
+                  "American English"
+                ],
+                "phoneticNotation": "respell",
+                "phoneticSpelling": "stand"
+              },
+              {
+                "audioFile": "http://audio.oxforddictionaries.com/en/mp3/stand_us_1.mp3",
+                "dialects": [
+                  "American English"
+                ],
+                "phoneticNotation": "IPA",
+                "phoneticSpelling": "stænd"
+              }
+            ],
+            "text": "stand"
+          }
+        ],
+        "type": "headword",
+        "word": "stand"
+      }
+    ],
+    "word": "stand"
+  },
+  {
+    "id": "support",
+    "metadata": {
+      "operation": "retrieve",
+      "provider": "Oxford University Press",
+      "schema": "RetrieveEntry"
+    },
+    "results": [
+      {
+        "id": "support",
+        "language": "en-us",
+        "lexicalEntries": [
+          {
+            "derivatives": [
+              {
+                "id": "supportability",
+                "text": "supportability"
+              },
+              {
+                "id": "supportable",
+                "text": "supportable"
+              },
+              {
+                "id": "supportably",
+                "text": "supportably"
+              },
+              {
+                "id": "supportless",
+                "text": "supportless"
+              }
+            ],
+            "entries": [
+              {
+                "etymologies": [
+                  "Middle English (originally in the sense ‘tolerate’): from Old French supporter, from Latin supportare, from sub-‘from below’ + portare‘carry’"
+                ],
+                "grammaticalFeatures": [
+                  {
+                    "id": "transitive",
+                    "text": "Transitive",
+                    "type": "Subcategorization"
+                  }
+                ],
+                "senses": [
+                  {
+                    "definitions": [
+                      "bear all or part of the weight of; hold up"
+                    ],
+                    "examples": [
+                      {
+                        "text": "the dome was supported by a hundred white columns"
+                      }
+                    ],
+                    "id": "m_en_gbus1015970.008",
+                    "shortDefinitions": [
+                      "bear all or part of weight of"
+                    ],
+                    "thesaurusLinks": [
+                      {
+                        "entry_id": "support",
+                        "sense_id": "t_en_gb0014449.001"
+                      }
+                    ]
+                  },
+                  {
+                    "definitions": [
+                      "give assistance to, especially financially; enable to function or act"
+                    ],
+                    "domains": [
+                      {
+                        "id": "commerce",
+                        "text": "Commerce"
+                      }
+                    ],
+                    "examples": [
+                      {
+                        "text": "the government gives $2.5 billion a year to support the activities of the voluntary sector"
+                      }
+                    ],
+                    "id": "m_en_gbus1015970.015",
+                    "shortDefinitions": [
+                      "give assistance to"
+                    ],
+                    "subsenses": [
+                      {
+                        "definitions": [
+                          "provide with a home and the necessities of life"
+                        ],
+                        "examples": [
+                          {
+                            "text": "my main concern was to support my family"
+                          }
+                        ],
+                        "id": "m_en_gbus1015970.016",
+                        "shortDefinitions": [
+                          "provide with home and necessities of life"
+                        ],
+                        "thesaurusLinks": [
+                          {
+                            "entry_id": "support",
+                            "sense_id": "t_en_gb0014449.002"
+                          }
+                        ]
+                      },
+                      {
+                        "definitions": [
+                          "produce enough food and water for; be capable of sustaining"
+                        ],
+                        "examples": [
+                          {
+                            "text": "the land had lost its capacity to support life"
+                          }
+                        ],
+                        "id": "m_en_gbus1015970.017",
+                        "shortDefinitions": [
+                          "produce enough food and water for"
+                        ]
+                      },
+                      {
+                        "definitions": [
+                          "give approval, comfort, or encouragement to"
+                        ],
+                        "examples": [
+                          {
+                            "text": "the proposal was supported by many delegates"
+                          },
+                          {
+                            "text": "I like to visit her to support her"
+                          }
+                        ],
+                        "id": "m_en_gbus1015970.018",
+                        "shortDefinitions": [
+                          "give approval, comfort, or encouragement to"
+                        ],
+                        "thesaurusLinks": [
+                          {
+                            "entry_id": "support",
+                            "sense_id": "t_en_gb0014449.003"
+                          },
+                          {
+                            "entry_id": "support",
+                            "sense_id": "t_en_gb0014449.007"
+                          }
+                        ]
+                      },
+                      {
+                        "definitions": [
+                          "be actively interested in and concerned for the success of (a particular sports team)"
+                        ],
+                        "examples": [
+                          {
+                            "text": "fans should always support their team fully, no matter what"
+                          }
+                        ],
+                        "id": "m_en_gbus1015970.019",
+                        "shortDefinitions": [
+                          "be actively interested in and concerned for success of"
+                        ]
+                      },
+                      {
+                        "definitions": [
+                          "(of a pop or rock group or performer) function as a secondary act to (another) at a concert."
+                        ],
+                        "domains": [
+                          {
+                            "id": "popular_music",
+                            "text": "Popular_Music"
+                          }
+                        ],
+                        "id": "m_en_gbus1015970.022",
+                        "shortDefinitions": [
+                          "(of pop or rock group or performer) function as secondary act to another at concert"
+                        ]
+                      }
+                    ],
+                    "thesaurusLinks": [
+                      {
+                        "entry_id": "support",
+                        "sense_id": "t_en_gb0014449.005"
+                      },
+                      {
+                        "entry_id": "support",
+                        "sense_id": "t_en_gb0014449.006"
+                      }
+                    ]
+                  },
+                  {
+                    "definitions": [
+                      "suggest the truth of; corroborate"
+                    ],
+                    "examples": [
+                      {
+                        "text": "the studies support our findings"
+                      }
+                    ],
+                    "id": "m_en_gbus1015970.024",
+                    "shortDefinitions": [
+                      "suggest truth of"
+                    ],
+                    "thesaurusLinks": [
+                      {
+                        "entry_id": "support",
+                        "sense_id": "t_en_gb0014449.004"
+                      }
+                    ]
+                  },
+                  {
+                    "definitions": [
+                      "(of a computer or operating system) allow the use or operation of (a program, language, or device)"
+                    ],
+                    "domains": [
+                      {
+                        "id": "computing",
+                        "text": "Computing"
+                      }
+                    ],
+                    "examples": [
+                      {
+                        "text": "the new versions do not support the graphical user interface standard"
+                      }
+                    ],
+                    "id": "m_en_gbus1015970.026",
+                    "shortDefinitions": [
+                      "(of computer or operating system) allow use or operation of"
+                    ]
+                  },
+                  {
+                    "definitions": [
+                      "endure; tolerate"
+                    ],
+                    "examples": [
+                      {
+                        "text": "at work during the day I could support the grief"
+                      }
+                    ],
+                    "id": "m_en_gbus1015970.028",
+                    "shortDefinitions": [
+                      "endure"
+                    ],
+                    "thesaurusLinks": [
+                      {
+                        "entry_id": "support",
+                        "sense_id": "t_en_gb0014449.008"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "language": "en-us",
+            "lexicalCategory": {
+              "id": "verb",
+              "text": "Verb"
+            },
+            "pronunciations": [
+              {
+                "dialects": [
+                  "American English"
+                ],
+                "phoneticNotation": "respell",
+                "phoneticSpelling": "səˈpôrt"
+              },
+              {
+                "audioFile": "http://audio.oxforddictionaries.com/en/mp3/support_us_1.mp3",
+                "dialects": [
+                  "American English"
+                ],
+                "phoneticNotation": "IPA",
+                "phoneticSpelling": "səˈpɔrt"
+              }
+            ],
+            "text": "support"
+          },
+          {
+            "derivatives": [
+              {
+                "id": "supportability",
+                "text": "supportability"
+              },
+              {
+                "id": "supportable",
+                "text": "supportable"
+              },
+              {
+                "id": "supportably",
+                "text": "supportably"
+              },
+              {
+                "id": "supportless",
+                "text": "supportless"
+              }
+            ],
+            "entries": [
+              {
+                "senses": [
+                  {
+                    "definitions": [
+                      "a thing that bears the weight of something or keeps it upright"
+                    ],
+                    "examples": [
+                      {
+                        "text": "the best support for a camera is a tripod"
+                      }
+                    ],
+                    "id": "m_en_gbus1015970.031",
+                    "shortDefinitions": [
+                      "thing that bears weight of something or keeps it upright"
+                    ],
+                    "subsenses": [
+                      {
+                        "definitions": [
+                          "the action or state of bearing the weight of something or someone or of being so supported"
+                        ],
+                        "examples": [
+                          {
+                            "text": "she clutched the sideboard for support"
+                          }
+                        ],
+                        "id": "m_en_gbus1015970.034",
+                        "shortDefinitions": [
+                          "action of supporting something or someone or state of being supported"
+                        ]
+                      }
+                    ],
+                    "thesaurusLinks": [
+                      {
+                        "entry_id": "support",
+                        "sense_id": "t_en_gb0014449.009"
+                      }
+                    ]
+                  },
+                  {
+                    "definitions": [
+                      "material assistance"
+                    ],
+                    "examples": [
+                      {
+                        "text": "he urged that military support be sent to protect humanitarian convoys"
+                      },
+                      {
+                        "notes": [
+                          {
+                            "text": "as modifier",
+                            "type": "grammaticalNote"
+                          }
+                        ],
+                        "text": "support staff"
+                      }
+                    ],
+                    "id": "m_en_gbus1015970.037",
+                    "shortDefinitions": [
+                      "material assistance"
+                    ],
+                    "subsenses": [
+                      {
+                        "constructions": [
+                          {
+                            "text": "in support of"
+                          }
+                        ],
+                        "definitions": [
+                          "approval, encouragement, or comfort"
+                        ],
+                        "examples": [
+                          {
+                            "text": "the paper printed many letters in support of the government"
+                          },
+                          {
+                            "text": "she's been through a bad time and needs our support"
+                          }
+                        ],
+                        "id": "m_en_gbus1015970.038",
+                        "shortDefinitions": [
+                          "approval, encouragement, or comfort"
+                        ],
+                        "thesaurusLinks": [
+                          {
+                            "entry_id": "support",
+                            "sense_id": "t_en_gb0014449.011"
+                          },
+                          {
+                            "entry_id": "support",
+                            "sense_id": "t_en_gb0014449.012"
+                          }
+                        ]
+                      },
+                      {
+                        "definitions": [
+                          "a source of comfort or encouragement"
+                        ],
+                        "examples": [
+                          {
+                            "text": "he was a great support when her father died"
+                          }
+                        ],
+                        "id": "m_en_gbus1015970.039",
+                        "shortDefinitions": [
+                          "source of comfort or encouragement"
+                        ],
+                        "thesaurusLinks": [
+                          {
+                            "entry_id": "support",
+                            "sense_id": "t_en_gb0014449.011"
+                          },
+                          {
+                            "entry_id": "support",
+                            "sense_id": "t_en_gb0014449.012"
+                          }
+                        ]
+                      },
+                      {
+                        "definitions": [
+                          "technical help given to the user of a computer or other product."
+                        ],
+                        "domains": [
+                          {
+                            "id": "computing",
+                            "text": "Computing"
+                          }
+                        ],
+                        "id": "m_en_gbus1015970.040",
+                        "shortDefinitions": [
+                          "technical help given to user of computer"
+                        ]
+                      },
+                      {
+                        "definitions": [
+                          "a secondary act at a pop or rock concert"
+                        ],
+                        "domains": [
+                          {
+                            "id": "popular_music",
+                            "text": "Popular_Music"
+                          }
+                        ],
+                        "examples": [
+                          {
+                            "notes": [
+                              {
+                                "text": "as modifier",
+                                "type": "grammaticalNote"
+                              }
+                            ],
+                            "text": "a support band"
+                          }
+                        ],
+                        "id": "m_en_gbus1015970.041",
+                        "shortDefinitions": [
+                          "secondary act at pop or rock concert"
+                        ]
+                      }
+                    ],
+                    "thesaurusLinks": [
+                      {
+                        "entry_id": "support",
+                        "sense_id": "t_en_gb0014449.010"
+                      },
+                      {
+                        "entry_id": "support",
+                        "sense_id": "t_en_gb0014449.013"
+                      },
+                      {
+                        "entry_id": "support",
+                        "sense_id": "t_en_gb0014449.014"
+                      },
+                      {
+                        "entry_id": "support",
+                        "sense_id": "t_en_gb0014449.015"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "language": "en-us",
+            "lexicalCategory": {
+              "id": "noun",
+              "text": "Noun"
+            },
+            "pronunciations": [
+              {
+                "dialects": [
+                  "American English"
+                ],
+                "phoneticNotation": "respell",
+                "phoneticSpelling": "səˈpôrt"
+              },
+              {
+                "audioFile": "http://audio.oxforddictionaries.com/en/mp3/support_us_1.mp3",
+                "dialects": [
+                  "American English"
+                ],
+                "phoneticNotation": "IPA",
+                "phoneticSpelling": "səˈpɔrt"
+              }
+            ],
+            "text": "support"
+          }
+        ],
+        "type": "headword",
+        "word": "support"
+      }
+    ],
+    "word": "support"
+  },
+  {
+    "id": "beast",
+    "metadata": {
+      "operation": "retrieve",
+      "provider": "Oxford University Press",
+      "schema": "RetrieveEntry"
+    },
+    "results": [
+      {
+        "id": "beast",
+        "language": "en-us",
+        "lexicalEntries": [
+          {
+            "derivatives": [
+              {
+                "id": "beastlike",
+                "text": "beastlike"
+              }
+            ],
+            "entries": [
+              {
+                "etymologies": [
+                  "Middle English: from Old French beste, based on Latin bestia"
+                ],
+                "senses": [
+                  {
+                    "definitions": [
+                      "an animal, especially a large or dangerous four-footed one"
+                    ],
+                    "examples": [
+                      {
+                        "text": "a wild beast"
+                      }
+                    ],
+                    "id": "m_en_gbus0081140.005",
+                    "shortDefinitions": [
+                      "large animal"
+                    ],
+                    "subsenses": [
+                      {
+                        "definitions": [
+                          "a domestic animal, especially a bovine farm animal."
+                        ],
+                        "id": "m_en_gbus0081140.008",
+                        "notes": [
+                          {
+                            "text": "usually \"beasts\"",
+                            "type": "wordFormNote"
+                          }
+                        ],
+                        "shortDefinitions": [
+                          "domestic animal"
+                        ],
+                        "thesaurusLinks": [
+                          {
+                            "entry_id": "beast",
+                            "sense_id": "t_en_gb0001247.001"
+                          }
+                        ]
+                      },
+                      {
+                        "definitions": [
+                          "an animal as opposed to a human"
+                        ],
+                        "examples": [
+                          {
+                            "text": "the gift of reason differentiates humanity from the beasts"
+                          }
+                        ],
+                        "id": "m_en_gbus0081140.009",
+                        "registers": [
+                          {
+                            "id": "archaic",
+                            "text": "Archaic"
+                          },
+                          {
+                            "id": "humorous",
+                            "text": "Humorous"
+                          }
+                        ],
+                        "shortDefinitions": [
+                          "animal as opposed to human"
+                        ]
+                      },
+                      {
+                        "definitions": [
+                          "an inhumanly cruel, violent, or depraved person"
+                        ],
+                        "examples": [
+                          {
+                            "text": "he is a filthy drunken beast"
+                          }
+                        ],
+                        "id": "m_en_gbus0081140.010",
+                        "shortDefinitions": [
+                          "cruel person"
+                        ],
+                        "thesaurusLinks": [
+                          {
+                            "entry_id": "beast",
+                            "sense_id": "t_en_gb0001247.002"
+                          }
+                        ]
+                      },
+                      {
+                        "definitions": [
+                          "an objectionable or unpleasant person or thing"
+                        ],
+                        "examples": [
+                          {
+                            "text": "a scheming, manipulative little beast"
+                          }
+                        ],
+                        "id": "m_en_gbus0081140.011",
+                        "registers": [
+                          {
+                            "id": "informal",
+                            "text": "Informal"
+                          }
+                        ],
+                        "shortDefinitions": [
+                          "unpleasant person or thing"
+                        ],
+                        "thesaurusLinks": [
+                          {
+                            "entry_id": "toad",
+                            "sense_id": "t_en_gb0014947.001"
+                          }
+                        ]
+                      },
+                      {
+                        "constructions": [
+                          {
+                            "text": "the beast in"
+                          }
+                        ],
+                        "definitions": [
+                          "a person's brutish or untamed characteristics"
+                        ],
+                        "examples": [
+                          {
+                            "text": "\n              the beast in you is rearing its ugly head"
+                          }
+                        ],
+                        "id": "m_en_gbus0081140.012",
+                        "notes": [
+                          {
+                            "text": "\"the beast\"",
+                            "type": "wordFormNote"
+                          }
+                        ],
+                        "shortDefinitions": [
+                          "untamed character"
+                        ]
+                      },
+                      {
+                        "definitions": [
+                          "a thing or concept possessing a particular quality"
+                        ],
+                        "examples": [
+                          {
+                            "text": "that much-maligned beast, the rave record"
+                          }
+                        ],
+                        "id": "m_en_gbus0081140.014",
+                        "notes": [
+                          {
+                            "text": "with adjective",
+                            "type": "grammaticalNote"
+                          }
+                        ],
+                        "registers": [
+                          {
+                            "id": "informal",
+                            "text": "Informal"
+                          }
+                        ],
+                        "shortDefinitions": [
+                          "thing of specified kind"
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "language": "en-us",
+            "lexicalCategory": {
+              "id": "noun",
+              "text": "Noun"
+            },
+            "pronunciations": [
+              {
+                "dialects": [
+                  "American English"
+                ],
+                "phoneticNotation": "respell",
+                "phoneticSpelling": "bēst"
+              },
+              {
+                "audioFile": "http://audio.oxforddictionaries.com/en/mp3/beast_us_1.mp3",
+                "dialects": [
+                  "American English"
+                ],
+                "phoneticNotation": "IPA",
+                "phoneticSpelling": "bist"
+              }
+            ],
+            "text": "beast"
+          }
+        ],
+        "type": "headword",
+        "word": "beast"
+      }
+    ],
+    "word": "beast"
+  },
+  {
+    "id": "camera",
+    "metadata": {
+      "operation": "retrieve",
+      "provider": "Oxford University Press",
+      "schema": "RetrieveEntry"
+    },
+    "results": [
+      {
+        "id": "camera",
+        "language": "en-us",
+        "lexicalEntries": [
+          {
+            "entries": [
+              {
+                "etymologies": [
+                  "mid 19th century: from Latin(see camera, camera obscura)"
+                ],
+                "homographNumber": "100",
+                "senses": [
+                  {
+                    "definitions": [
+                      "a device for recording visual images in the form of photographs, film, or video signals"
+                    ],
+                    "domains": [
+                      {
+                        "id": "photography",
+                        "text": "Photography"
+                      }
+                    ],
+                    "examples": [
+                      {
+                        "text": "she faced the cameras"
+                      },
+                      {
+                        "text": "a photographer's camera flashed"
+                      },
+                      {
+                        "text": "a video camera"
+                      }
+                    ],
+                    "id": "m_en_gbus0145940.005",
+                    "shortDefinitions": [
+                      "device for recording visual images in form of photographs"
+                    ]
+                  }
+                ]
+              }
+            ],
+            "language": "en-us",
+            "lexicalCategory": {
+              "id": "noun",
+              "text": "Noun"
+            },
+            "pronunciations": [
+              {
+                "dialects": [
+                  "American English"
+                ],
+                "phoneticNotation": "respell",
+                "phoneticSpelling": "ˈkam(ə)rə"
+              },
+              {
+                "audioFile": "http://audio.oxforddictionaries.com/en/mp3/camera_us_1.mp3",
+                "dialects": [
+                  "American English"
+                ],
+                "phoneticNotation": "IPA",
+                "phoneticSpelling": "ˈkæm(ə)rə"
+              }
+            ],
+            "text": "camera"
+          }
+        ],
+        "type": "headword",
+        "word": "camera"
+      },
+      {
+        "id": "camera",
+        "language": "en-us",
+        "lexicalEntries": [
+          {
+            "entries": [
+              {
+                "etymologies": [
+                  "late 17th century (denoting a council or legislative chamber in Italy or Spain): from Latin, ‘vault, arched chamber’, from Greek kamara‘object with an arched cover’"
+                ],
+                "homographNumber": "200",
+                "notes": [
+                  {
+                    "text": "in names",
+                    "type": "grammaticalNote"
+                  }
+                ],
+                "senses": [
+                  {
+                    "definitions": [
+                      "a chamber or round building"
+                    ],
+                    "examples": [
+                      {
+                        "text": "the Radcliffe Camera"
+                      }
+                    ],
+                    "id": "m_en_gbus0145950.005",
+                    "shortDefinitions": [
+                      "chamber or round building"
+                    ]
+                  }
+                ]
+              }
+            ],
+            "language": "en-us",
+            "lexicalCategory": {
+              "id": "noun",
+              "text": "Noun"
+            },
+            "pronunciations": [
+              {
+                "dialects": [
+                  "American English"
+                ],
+                "phoneticNotation": "respell",
+                "phoneticSpelling": "ˈkam(ə)rə"
+              },
+              {
+                "audioFile": "http://audio.oxforddictionaries.com/en/mp3/camera_us_1.mp3",
+                "dialects": [
+                  "American English"
+                ],
+                "phoneticNotation": "IPA",
+                "phoneticSpelling": "ˈkæm(ə)rə"
+              }
+            ],
+            "text": "camera"
+          }
+        ],
+        "type": "headword",
+        "word": "camera"
+      }
+    ],
+    "word": "camera"
+  }
+]
