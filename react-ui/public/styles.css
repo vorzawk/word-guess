@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1 {
+  text-align: center;
+}
+
+.card {
+  width: 200px;
+  border: 1px solid black;
+  margin: 5px;
+  padding: 5px;
+}
+
+.prompt {
+  text-indent: 2em;
+  height: 8em;
+  padding: 0.5em 0;
+}
+
+.clue {
+  height: 4em;
+}
+
+form {
+  text-align: center;
+}
+
+.card-grid-container {
+  display: flex;
+  justify-content: center;
+}
+
+.card-grid {
+  display: flex;
+  width: 900px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
