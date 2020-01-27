@@ -12,7 +12,7 @@ for wordData in data:
         if 'definitions' in sense and 'examples' in sense:
             definition = sense['definitions'][0]
             example = sense['examples'][0]['text']
-            wordDict = {'word': word, 'definition': definition, 'example': example}
+            wordDict = {'string': word, 'definition': definition, 'example': example}
             relevantData.append(wordDict)
             break
 with open('relevantData.json', 'w', encoding='utf-8') as f:

@@ -2,35 +2,67 @@ import React from "react";
 
 const Prompt = props => {
   return (
-    <p className="prompt">
+    <div className="prompt">
       <em>{props.prompt}</em>
-    </p>
-  );
-};
-
-const Clue = props => {
-  let clue = props.example.replace(props.word, "______");
-  console.log(clue);
-  return <p className="clue"> {clue} </p>;
-};
-
-const Form = () => {
-  return (
-    <div>
-      <form>
-        <input type="text" name="response" />
-        <input type="button" value="Submit" />
-      </form>
     </div>
   );
 };
 
+class Clue extends React.Component {
+  constructor(props) {
+    super(props);
+    this.state = { isClicked: false };
+  }
+
+  render() {
+    const clue = this.props.example.replace(this.props.wordStr, "______");
+    if (this.state.isClicked) {
+      return <div className="clue"> {clue} </div>;
+    }
+    return (
+      <div
+        className="clue-prompt"
+        onClick={() => this.setState({ isClicked: true })}
+      >
+        Click here for a clue
+      </div>
+    );
+  }
+}
+
+class Form extends React.Component {
+  constructor(props) {
+    super(props);
+    this.state = { value: "" };
+  }
+
+  handleChange = event => {
+    this.setState({ value: event.target.value });
+  };
+
+  render() {
+    return (
+      <form>
+        <input
+          type="text"
+          value={this.state.value}
+          onChange={this.handleChange}
+        />
+        <input type="button" value="Submit" />
+      </form>
+    );
+  }
+}
+
 const Card = props => {
+  const prompt = props.word["definition"];
+  const example = props.word["example"];
+  const wordStr = props.word["string"];
   return (
     <div className="card">
       <p>Guess one word for </p>
-      <Prompt prompt={props.prompt} />
-      <Clue example={props.example} />
+      <Prompt prompt={prompt} />
+      <Clue example={example} wordStr={wordStr} />
       <Form />
     </div>
   );

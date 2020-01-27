@@ -5,7 +5,7 @@ import Card from "./Card";
 class App extends React.Component {
   renderCard(i) {
     let word = data[i];
-    return <Card prompt={word["definition"]} example={word["example"]} />;
+    return <Card word={word} />;
   }
 
   render() {
