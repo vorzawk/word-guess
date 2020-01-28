@@ -9,7 +9,7 @@ h1 {
 }
 
 .card {
-  width: 200px;
+  width: 225px;
   border: 1px solid black;
   margin: 5px;
   padding: 5px;
@@ -40,8 +40,20 @@ form {
 
 .card-grid {
   display: flex;
-  width: 900px;
+  width: 1000px;
   flex-wrap: wrap;
   justify-content: center;
   margin: auto;
+}
+
+.userOptions {
+  display: flex;
+  justify-content: space-around;
+}
+
+.userInteractions {
+  height: 3.5em;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
 }
