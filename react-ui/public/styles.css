@@ -8,6 +8,10 @@ h1 {
   text-align: center;
 }
 
+button {
+  margin: 4px;
+}
+
 .card {
   width: 225px;
   border: 1px solid black;
@@ -17,7 +21,7 @@ h1 {
 
 .prompt {
   text-indent: 2em;
-  height: 8em;
+  height: 7.2em;
   padding: 0.5em 0;
 }
 
@@ -40,10 +44,16 @@ form {
 
 .card-grid {
   display: flex;
-  width: 1000px;
   flex-wrap: wrap;
   justify-content: center;
   margin: auto;
+}
+
+/* Desktop Styles */
+@media only screen and (min-width: 961px) {
+  .card-grid {
+    width: 960px;
+  }
 }
 
 .userOptions {
@@ -52,8 +62,6 @@ form {
 }
 
 .userInteractions {
-  height: 3.5em;
-  display: flex;
-  flex-direction: column;
-  justify-content: space-around;
+  height: 3.2em;
+  text-align: center;
 }
